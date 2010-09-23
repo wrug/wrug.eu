@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: 2010-09-09 hackfest
+---
+Kolejny hackfest, tym razem tematyczny.
+
+*Gdzie?*
+Spotykamy się w "kawiarni Kafka":http://www.kawiarnia-kafka.pl/ na Powiślu, ulica Oboźna 3.
+
+*Kiedy?*
+9. września w czwartek o 18. Jeśli to zbyt dla Ciebie zbyt wcześnie, to możesz przyjść później, na pewno będzie co robić.
+
+Warto śledzić "spotkaniowy wątek na forum":http://rubyonrails.pl/forum/t3311-rails-3-final-celebration-hackfest%3F-:) 
+
+Hackfest będzie zorientowany na Rails 3, nowe możliwości i elementy frameworka. "Drogomir":http://piotrsarnacki.com/ zaoferował wprowadzenie nas w to, co pisał przez całe lato (w ramach "RubySOC":http://rubysoc.org/), czyli Mountable Apps dla Rails. Co powinno zaowocować powstaniem kilku zalążków "wpinalnych" aplikacji.
+
+Przypomnienie idei hackfestu: przynosimy laptopy, spotykamy się w jednym miejscu i programujemy. Zero salki, zero prezentacji, mało normalnego gadania, dużo programowania w małych podgrupach 2-3 osoby.
