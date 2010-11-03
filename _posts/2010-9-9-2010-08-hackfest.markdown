@@ -1,6 +1,7 @@
 --- 
-layout: post
+layout: default
 title: 2010-09-09 hackfest
+permalink: 2010/9/9/2010-08-hackfest
 ---
 Kolejny hackfest, tym razem tematyczny.
 

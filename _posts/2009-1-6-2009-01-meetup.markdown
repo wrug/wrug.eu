@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: default
 title: 2009-01 Meetup  (Happy New Year !)
 ---
 Tonight's schedule is here in a [pdf file](http://wrug.eu/assets/2009/1/6/2009-01.pdf)

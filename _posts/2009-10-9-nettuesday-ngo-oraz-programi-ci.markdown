@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: default
 title: "NetTuesday: NGO oraz programiści"
 ---
 Jeden z grupowiczów, Piotrek "Shot" Szotkowski, podnióśł tę kwestię na październikowym spotkaniu, licząc na zainteresowanie tą szlachetną inicjatywą deweloperów z żyłką do zrobienia czegoś pro publico bono.

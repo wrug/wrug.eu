@@ -1,5 +1,5 @@
 --- 
-layout: post
+layout: default
 title: Rubyists.EU - nowa inicjatywa
 ---
 Takiego maila dostałem parę dni temu odnośnie nowej inicjatywy mającej ułatwić i poprawić kontakty pomiędzy europejskimi programistami Ruby. Wklejam tutaj za pozwoleniem autora, jako że inicjatywa wydaje się bardzo fajna, kompletna i inspirująca (a osoby za nią stojące pełne pozytywnego entuzjazmu) i po prostu warto o tym przynajmniej wiedzieć

@@ -1,0 +1,5 @@
+echo 'Building...' 
+jekyll --pygments
+echo 'Pushing...'
+rsync -avz --delete _site/ ror-wrug@thirster:~/public_html/
+

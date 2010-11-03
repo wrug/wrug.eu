@@ -15,6 +15,11 @@
 </head>
 
 <body>
+  <h1>Warsaw Ruby Users Group</h1>
+
+{% if page.title %}
+  <h2>{{ page.title}}</h2>
+{% endif %}
 
 {{ content }}
 
