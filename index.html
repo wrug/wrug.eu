@@ -1,12 +1,16 @@
 ---
 layout: default
-title: Home
+title: 
 ---
 
-<ul>
-{% for post in site.posts %}
+<ul id="posts">
+{% for post in site.posts limit:5 %}
 
-<li> <a href="{{ post.url }}">{{ post.title }}</a> <small>posted on {{ post.date | date_to_string }}</small></li>
+<li class="post"> <a href="{{ post.url }}">{{ post.title }}</a> <small>posted on {{ post.date | date_to_string }}</small>
+{{ post.content }}
+</li>
 
 {% endfor %}
 </ul>
+
+Starsze wpisy w <a href="/posts">archiwum</a>.
