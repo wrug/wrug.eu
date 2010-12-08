@@ -1,5 +1,5 @@
 --- 
-layout: default
+layout: post
 title: "NetTuesday: NGO oraz programiści"
 permalink: 10/9/nettuesday-ngo-oraz-programi-ci
 ---

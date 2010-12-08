@@ -1,5 +1,5 @@
 --- 
-layout: default
+layout: post
 title: Rubyists.EU - nowa inicjatywa
 permalink: 11/17/rubyists-eu-nowa-inicjatywa
 ---
