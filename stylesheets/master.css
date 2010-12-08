@@ -1,0 +1,209 @@
+html {
+  background: transparent url(../i/bg.png) 0 0;
+}
+body {
+  background: transparent url(../i/skyline.jpg) 0 0 repeat-x;
+  margin: 0;
+}
+
+hr {
+  border: none;
+  height: 2px;
+  background: transparent url(../i/hr.png) 0 0 repeat-x;
+}
+
+.wrp {
+  width: 860px;
+  margin: 0 auto;
+}
+
+a,a:visited {
+  color: #c22208;
+  outline:none;
+  text-decoration: none;
+}
+
+  a:hover {
+    text-decoration: underline;
+    /*border-bottom: 1px solid #c22208; */
+  }
+
+p {
+  margin: 5px 0;
+}
+
+/* Header ------------------------------------------------------------------- */
+
+#top {
+  height: 211px;
+  position:relative;
+}
+
+  #top h1 a, #top h2 {
+    text-indent: -9999em;
+    display: block;
+    position:absolute;
+  }
+
+  #top h1 a {
+    background: transparent url(../i/logo.png) 0 0 no-repeat;
+    width: 210px;
+    height: 192px;
+    outline:none;
+    bottom: 5px;
+    left: 123px;
+    border:none;
+  }
+
+    #top h1 a:hover {
+      background: transparent url(../i/logo.png) 0 -192px no-repeat;
+    }
+
+  #top h2  {
+    background: transparent url(../i/wrug.png) 0 0 no-repeat;
+    width: 436px;
+    height: 124px;
+    top: 46px;
+    left: 328px;
+  }
+
+/* Main & navigation -------------------------------------------------------- */
+
+#main {
+  background: #e1dbcb url(../i/bkg.jpg);
+  overflow:hidden;
+}
+
+#menu ul {
+  list-style: none;
+  overflow: hidden;
+  padding: 7px 21px;
+}
+
+  #menu ul li{
+    float:left;
+    margin-right: 20px;
+  }
+
+    #menu ul li a{
+      font: normal 25px/1.5em Georgia, "Times New Roman", Times New Roman, serif;
+      text-decoration:none;
+      font-style: italic;
+      color: #5b5448;
+      text-shadow: 0 1px 1px #fff;
+      -moz-text-shadow: 0 1px 1px #fff;
+      -webkit-text-shadow: 0 1px 1px #fff;
+      padding-top: 5px;
+      display:block;
+      border:none;
+     } 
+
+    #menu ul li a:hover{
+      color: #c22208;
+    }
+
+    #menu ul li.active a{
+      font-size: 30px;
+      padding-top: 0;
+    }
+
+/* Footer ------------------------------------------------------------------- */
+
+#foot {
+  height: 100px;
+  background: transparent url(../i/footer.png) 0 0 repeat-x;
+  color: #aaa;
+  padding:20px;
+  font: normal 15px/1.5em Tahoma, Arial, Verdana, sans-serif;
+  text-shadow: 0 1px 1px #333;
+  -moz-text-shadow: 0 1px 1px #333;
+  -webkit-text-shadow: 0 1px 1px #333;
+}
+  #foot .wrp {
+    position: relative;
+  }
+
+  #foot a {
+    color:#bbb;
+    text-decoration:none;
+    border-bottom: 1px solid #777;
+  }
+
+  #flogo {
+    height: 57px;
+    width: 145px;
+    background: transparent url(../i/flogo.png) 0 0 repeat-x;
+    position: absolute;
+    top:-19px;
+    right: 20px;
+  }
+    
+
+/* Article ------------------------------------------------------------------ */
+
+article {
+  background: transparent url(../i/postbg.png) 0 0;
+  border-top: 3px solid #c22208;
+  border-bottom: 1px solid #bbb;
+  padding: 20px;
+  font: normal 15px/1.5em Tahoma, Arial, Verdana, sans-serif;
+  text-shadow: 0 1px 1px #ddd;
+  -moz-text-shadow: 0 1px 1px #ddd;
+  -webkit-text-shadow: 0 1px 1px #ddd;
+  margin-bottom: 20px;
+}
+
+  article h1 {
+    font: normal 26px/1em Georgia, "Times New Roman", Times New Roman, serif;
+    color: #c22208;
+    text-shadow: 0 1px 1px #ddd;
+    -moz-text-shadow: 0 1px 1px #ddd;
+    -webkit-text-shadow: 0 1px 1px #ddd;
+    position: relative;
+    padding-bottom: 20px; 
+  }
+
+    article h1 span {
+      position:absolute;
+      top: 0;
+      right: 0;
+      font-weight: normal;
+      font-size: 13px;
+      display:block;
+      color: #5b5448;
+    }
+
+    article h1 a {
+      border:none; 
+    }
+
+  article footer, #disqus_thread {
+    background: transparent url(../i/hr.png) 0 0 repeat-x;
+    padding-top: 20px;
+    margin-top: 20px;
+  }
+
+  article ul {
+    padding-left: 20px;
+  }
+
+  article nav ul {
+    padding:0;
+  }
+
+    article nav ul li {
+      overflow:hidden;
+    }
+
+      article nav ul li a {
+        font: normal 15px/1.5em Tahoma, Arial, Verdana, sans-serif;
+      }
+
+    article nav time{
+      color: #5b5448;
+      text-decoration: none;
+      float:left;
+      width: 150px;
+      text-align: right;
+      padding-right: 10px;
+    }

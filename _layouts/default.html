@@ -1,33 +1,55 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<!DOCTYPE HTML>
+<html lang="pl">
 <head>
-<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<meta name="description" content="website of Warsaw Ruby Users Group" />
-<meta name="keywords" content="ruby,users,group,programming,rails" />
-<meta name="author" content="WRUG" />
-<link href="http://wrug.eu/atom.xml" rel="alternate" title="WRUG site" type="application/atom+xml" />
-<link href="/stylesheets/default.css" rel="stylesheet" type="text/css" />
-
-<title>WRUG
-{% if page.title %}
-/ {{ page.title}}
-{% endif %}
-</title>
+	<meta charset="UTF-8">
+  <link rel="stylesheet" href="/stylesheets/reset.css" type="text/css" media="screen" charset="utf-8">
+  <link rel="stylesheet" href="/stylesheets/master.css" type="text/css" media="screen" charset="utf-8">
+  <meta name="description" content="website of Warsaw Ruby Users Group" />
+  <meta name="keywords" content="ruby,users,group,programming,rails" />
+  <meta name="author" content="WRUG" />
+  <link href="http://wrug.eu/atom.xml" rel="alternate" title="WRUG site" type="application/atom+xml">
+  <title>WRUG
+    {% if page.title %}
+    / {{ page.title}}
+    {% endif %}
+  </title>
 </head>
 
 <body>
-  <div id="wrapper">
-  <h1>Warsaw Ruby Users Group</h1>
-  
-  {% if page.title %}
-    <h2>{{ page.title}}</h2>
-  {% endif %}
-  
-  <a href="/">home</a> <a href="/posts">posts</a>  
-  
-  {{ content }}
-  </div>
-  
+    <div class="wrp">
+    <header id="top">
+      <hgroup>
+        <h1><a href="/" title="Warsaw Ruby Users Group - Home">WRUG</a></h1>
+        <h2>Warsaw Ruby Users Group</h2>
+      </hgroup>
+    </header>  
+    </div>
+    <section id="main">
+      <div class="wrp">
+        <nav id="menu">
+          <ul>
+            <li>
+              <a href="/" title="Strona główna">News</a></li>
+            <li class="active">
+              <a href="/posts" title="Wszystkie wpisy">Archiwum</a></li>
+            <li>
+              <a href="/place" title="Miejsce spotkań">Miejsce</a></li>
+            <li>
+              <a href="#" title="">Ludzie</a></li>
+          </ul>
+        </nav>
+        {{ content }}
+      </div>
+    </section>
+    <footer id="foot">
+      <div class="wrp">
+        &copy; 2010 wrug.eu | design: <a href="http://rubytree.pl" title="rubytree">rubytree</a>
+        <div id="flogo" />
+        <nav>
+        </nav>
+      </div>
+    </footer>
+
   <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -39,7 +61,6 @@
     } 
     catch(err) {}
   </script>
-
 
 </body>
 </html>

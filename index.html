@@ -3,14 +3,27 @@ layout: default
 title: 
 ---
 
-<ul id="posts">
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:1 %}
 
-<li class="post"> <a href="{{ post.url }}">{{ post.title }}</a> <small>posted on {{ post.date | date_to_string }}</small>
-{{ post.content }}
-</li>
-
+<article class="news">
+  <header>
+    <h1>
+      <a href="{{ post.url }}">{{ post.title }}</a> <span>posted on <time datetime="{{post.date}}">{{ post.date | date_to_long_string }}</time></span>
+    </h1>
+  </header>
+  {{ post.content }}
+  <footer>  
+  <h2>Wcześniej</h2>
+    <nav>
+      <ul>
+    {% for arch in site.posts limit:5 %}
+        <li>
+        <time datetime="{{arch.date}}">{{ arch.date | date_to_long_string }}</time> <a href="{{ arch.url }}">{{ arch.title }}</a>
+        </li>
+    {% endfor %}
+      </ul>
+    </nav>
+      Starsze wpisy w <a href="/posts" title="Zobacz wszystkie wpisy">archiwum</a>.
+  </footer>
+</article>
 {% endfor %}
-</ul>
-
-Starsze wpisy w <a href="/posts">archiwum</a>.
