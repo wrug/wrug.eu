@@ -186,6 +186,10 @@ article {
   article h3 {
     font-size: 18px;
   }
+  
+  article #gmap {
+    margin-bottom: 15px;
+  }
 
   article footer, #disqus_thread {
     background: transparent url(/images/hr.png) 0 0 repeat-x;
