@@ -28,11 +28,11 @@
       <div class="wrp">
         <nav id="menu">
           <ul>
-            <li>
+            <li {% if page.section == 'news' %}class="active"{% endif %}>
               <a href="/" title="Strona główna">News</a></li>
-            <li class="active">
+            <li {% if page.section == 'archive' %}class="active"{% endif %}>
               <a href="/posts" title="Wszystkie wpisy">Archiwum</a></li>
-            <li>
+            <li {% if page.section == 'place' %}class="active"{% endif %}>
               <a href="/place" title="Miejsce spotkań">Miejsce</a></li>
             <li>
               <a href="#" title="">Ludzie</a></li>

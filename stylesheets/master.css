@@ -93,9 +93,9 @@ p {
       text-shadow: 0 1px 1px #fff;
       -moz-text-shadow: 0 1px 1px #fff;
       -webkit-text-shadow: 0 1px 1px #fff;
-      padding-top: 5px;
       display:block;
       border:none;
+      padding: 0 7px;
      } 
 
     #menu ul li a:hover{
@@ -103,8 +103,14 @@ p {
     }
 
     #menu ul li.active a{
-      font-size: 30px;
-      padding-top: 0;
+      background-color: #c22208;
+      color: white;
+      text-shadow: 0 1px 1px #333;
+      -moz-text-shadow: 0 1px 1px #333;
+      -webkit-text-shadow: 0 1px 1px #333;
+      border-radius: 3px;
+      -moz-border-radius: 3px;
+      -webkit-border-radius: 3px;
     }
 
 /* Footer ------------------------------------------------------------------- */
