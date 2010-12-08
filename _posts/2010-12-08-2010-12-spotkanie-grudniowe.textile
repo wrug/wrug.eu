@@ -1,6 +1,7 @@
 --- 
 layout: post
-title: 2010-12-08 spotkanie grudniowe
+title: 2010-12 spotkanie grudniowe
 ---
 Tym razem luźniejsze, nieformalne spotkanie w Kafce -- trochę pohakujemy, trochę podyskutujemy. Zamiast w sali z rzutnikiem spotykamy się w miejscu hackfestów, czyli "kawiarni Kafka":http://www.kawiarnia-kafka.pl/.
 
+Spotykamy się 8. grudnia, godzina 19:00.
