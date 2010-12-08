@@ -176,16 +176,30 @@ article {
     article h1 a {
       border:none; 
     }
+    
+  article h3 {
+    font-size: 18px;
+  }
 
   article footer, #disqus_thread {
     background: transparent url(../i/hr.png) 0 0 repeat-x;
     padding-top: 20px;
     margin-top: 20px;
   }
+  
 
   article ul {
     padding-left: 20px;
   }
+  
+  article ul.videos {
+    padding-left: 5px;
+    list-style-type: none;
+  }
+  
+    article ul.videos li {
+      margin-top: 20px;
+    }
 
   article nav ul {
     padding:0;
