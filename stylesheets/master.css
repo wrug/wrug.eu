@@ -1,15 +1,15 @@
 html {
-  background: transparent url(../i/bg.png) 0 0;
+  background: transparent url(/images/bg.png) 0 0;
 }
 body {
-  background: transparent url(../i/skyline.jpg) 0 0 repeat-x;
+  background: transparent url(/images/skyline.jpg) 0 0 repeat-x;
   margin: 0;
 }
 
 hr {
   border: none;
   height: 2px;
-  background: transparent url(../i/hr.png) 0 0 repeat-x;
+  background: transparent url(/images/hr.png) 0 0 repeat-x;
 }
 
 .wrp {
@@ -46,7 +46,7 @@ p {
   }
 
   #top h1 a {
-    background: transparent url(../i/logo.png) 0 0 no-repeat;
+    background: transparent url(/images/logo.png) 0 0 no-repeat;
     width: 210px;
     height: 192px;
     outline:none;
@@ -56,11 +56,11 @@ p {
   }
 
     #top h1 a:hover {
-      background: transparent url(../i/logo.png) 0 -192px no-repeat;
+      background: transparent url(/images/logo.png) 0 -192px no-repeat;
     }
 
   #top h2  {
-    background: transparent url(../i/wrug.png) 0 0 no-repeat;
+    background: transparent url(/images/wrug.png) 0 0 no-repeat;
     width: 436px;
     height: 124px;
     top: 46px;
@@ -70,7 +70,7 @@ p {
 /* Main & navigation -------------------------------------------------------- */
 
 #main {
-  background: #e1dbcb url(../i/bkg.jpg);
+  background: #e1dbcb url(/images/bkg.jpg);
   overflow:hidden;
 }
 
@@ -117,7 +117,7 @@ p {
 
 #foot {
   height: 100px;
-  background: transparent url(../i/footer.png) 0 0 repeat-x;
+  background: transparent url(/images/footer.png) 0 0 repeat-x;
   color: #aaa;
   padding:20px;
   font: normal 15px/1.5em Tahoma, Arial, Verdana, sans-serif;
@@ -138,7 +138,7 @@ p {
   #flogo {
     height: 57px;
     width: 145px;
-    background: transparent url(../i/flogo.png) 0 0 repeat-x;
+    background: transparent url(/images/flogo.png) 0 0 repeat-x;
     position: absolute;
     top:-19px;
     right: 20px;
@@ -148,7 +148,7 @@ p {
 /* Article ------------------------------------------------------------------ */
 
 article {
-  background: transparent url(../i/postbg.png) 0 0;
+  background: transparent url(/images/postbg.png) 0 0;
   border-top: 3px solid #c22208;
   border-bottom: 1px solid #bbb;
   padding: 20px;
@@ -188,7 +188,7 @@ article {
   }
 
   article footer, #disqus_thread {
-    background: transparent url(../i/hr.png) 0 0 repeat-x;
+    background: transparent url(/images/hr.png) 0 0 repeat-x;
     padding-top: 20px;
     margin-top: 20px;
   }
