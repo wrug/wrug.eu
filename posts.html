@@ -14,7 +14,7 @@ section: archive
 
       <li>
         <time datetime="{{post.date}}">{{ post.date | date_to_long_string }}</time>
-        <a href="/{{post.url}}">{{ post.title }}</a>
+        <a href="{{post.url}}">{{ post.title }}</a>
       </li>
       {% endfor %}
     </ul>

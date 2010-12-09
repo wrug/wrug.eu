@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: 2009-01 Meetup  (Happy New Year !)
-permalink: 2009/1/6/2009-01-meetup
+permalink: /2009/1/6/2009-01-meetup
 ---
 Tonight's schedule is here in a [pdf file](http://wrug.eu/assets/2009/1/6/2009-01.pdf)
 
