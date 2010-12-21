@@ -2,6 +2,7 @@
 <html lang="pl">
 <head>
 	<meta charset="UTF-8">
+  <link  href="//fonts.googleapis.com/css?family=Lobster:regular" rel="stylesheet" type="text/css" >
   <link rel="stylesheet" href="/stylesheets/reset.css" type="text/css" media="screen" charset="utf-8">
   <link rel="stylesheet" href="/stylesheets/master.css" type="text/css" media="screen" charset="utf-8">
   <meta name="description" content="website of Warsaw Ruby Users Group" />
@@ -39,7 +40,8 @@
             <li {% if page.section == 'place' %}class="active"{% endif %}>
               <a href="/place" title="Miejsce spotkań">Miejsce</a></li>
             <li>
-              <a href="#" title="">Ludzie</a></li>
+            <li {% if page.section == 'people' %}class="active"{% endif %}>
+              <a href="/people" title="Ludzie">Ludzie</a></li>
           </ul>
         </nav>
         {{ content }}

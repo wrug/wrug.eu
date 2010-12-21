@@ -120,7 +120,7 @@ p {
   background: transparent url(/images/footer.png) 0 0 repeat-x;
   color: #aaa;
   padding:20px;
-  font: normal 15px/1.5em Tahoma, Arial, Verdana, sans-serif;
+  font: normal 15px/1.5em Lobster, Tahoma, Arial, Verdana, sans-serif;
   text-shadow: 0 1px 1px #333;
   -moz-text-shadow: 0 1px 1px #333;
   -webkit-text-shadow: 0 1px 1px #333;
@@ -160,7 +160,7 @@ article {
 }
 
   article h1 {
-    font: normal 26px/1em Georgia, "Times New Roman", Times New Roman, serif;
+    font: normal 26px/1em Lobster, Georgia, "Times New Roman", Times New Roman, serif;
     color: #c22208;
     text-shadow: 0 1px 1px #ddd;
     -moz-text-shadow: 0 1px 1px #ddd;
