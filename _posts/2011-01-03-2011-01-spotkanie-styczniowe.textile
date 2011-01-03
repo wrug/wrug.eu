@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: 2011-01 spotkanie styczniowe
+---
+Nowy rok czas zacząć.
+
+Z okazji posylwestrowości zaczniemy wrugowy rok nietypowo, bo w drugą środę miesiąca. Spotykamy się w środę 12.01
+
+"Miejsce jak zwykle":/place
+
+Prezentacje:
+
+* Piotr Barczuk: Jak to było na Rails Rumble
+* Damian Legawiec: Jak sobie radzimy z 8mln odsłon / mc -- czyli architektura i optymalizacja gametrade.pl
+* Sławosz Sławiński: Słów kilka o Rails Admin
