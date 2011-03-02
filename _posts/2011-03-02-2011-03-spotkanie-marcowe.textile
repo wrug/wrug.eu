@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: 2011-03 spotkanie marcowe
+---
+
+"Tradycyjnie" pierwsza środa miesiąca -- czyli 2. marca.
+
+"Miejsce i godzina jak zwykle":/place
+
+Prezentacja jedna, ale syta:
+
+* Aleksander Dąbrowski: Serwer do obliczeń rozproszonych z wykorzystaniem EventMachine
+

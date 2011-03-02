@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: 2011-02 spotkanie lutowe
+---
+Nowy rok czas zacząć.
+
+Tym razem bez żadnych kombinacji, pierwsza środa miesiąca -- czyli 2. lutego.
+
+"Miejsce i godzina jak zwykle":/place
+
+Prezentacja jedna, ale za to jaka:
+
+* Jan Stępień: Kompilator tłumaczący podzbiór Ruby do C.
+
