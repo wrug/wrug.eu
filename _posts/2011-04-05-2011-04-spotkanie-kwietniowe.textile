@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: 2011-04 spotkanie kwietniowe 
+---
+
+"Tradycyjnie" pierwsza środa miesiąca -- czyli 6. kwietnia
+
+"Miejsce i godzina jak zwykle":/place
+
+Planowana prezentacja:
+* "JavaScript i jQuery - garść najlepszych praktyk" - Piotr "qertoip" Włodarek, autor bloga "http://thesingularity.pl/blog/":http://thesingularity.pl/blog/
+
