@@ -8,5 +8,5 @@ Jak zwykle spotykamy się w pierwszę środę miesiąca - czyli 11. maja
 
 Planowane prezentacje:
 * "Piotr Sarnacki: 'We buried fixtures too soon'":http://vimeo.com/26152223
-* Łukasz Adamczak: "LASockyClient, czyli Socky i łebsokety na ajfonie" - lightning demo
+* "Łukasz Adamczak: 'LASockyClient, czyli Socky i łebsokety na ajfonie' - lightning demo":http://vimeo.com/26155338
 * "Aleksander Dąbrowski: 'CoffeeScript - wprowadzenie'":http://vimeo.com/26146358 
