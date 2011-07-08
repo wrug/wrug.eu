@@ -7,6 +7,6 @@ Jak zwykle spotykamy się w pierwszę środę miesiąca - czyli 11. maja
 "Miejsce i godzina jak zwykle":/place
 
 Planowane prezentacje:
-* Piotr Sarnacki: "We buried fixtures too soon" - lightning talk
+* "Piotr Sarnacki: 'We buried fixtures too soon'":http://vimeo.com/26152223
 * Łukasz Adamczak: "LASockyClient, czyli Socky i łebsokety na ajfonie" - lightning demo
 * "Aleksander Dąbrowski: 'CoffeeScript - wprowadzenie'":http://vimeo.com/26146358 
