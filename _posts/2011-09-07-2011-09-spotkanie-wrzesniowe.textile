@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: 2011-09 spotkanie wrześniowe
+---
+Po wakacjach tradycyjnie spotykamy się w pierwszę środę miesiąca - czyli 7 września
+
+"Miejsce i godzina jak zwykle":/place
+
+Planowane prezentacje:
+* Sławosz Sławiński: Grafowa baza danych "neo4j":http://neo4j.org/.
+
+Po prezentacji dalszą część wieczoru spędzimy na piwie w pobliskim pubie.
+
+Możliwe, że w planie pojawią sie dodatkowe prezentacje, dlatego warto "śledzić nasze forum":http://rubyonrails.pl/forum/t4463-wrzesien-7.09.
