@@ -11,6 +11,8 @@ Obrodziły nam prezentacje:
 * Mateusz Bil: CSS3 - it's a kind of magic
 * Sławosz Sławiński: Grafowa baza danych "neo4j":http://neo4j.org/ (może tym razem się uda ;))
 
-Po prezentacji dalszą część wieczoru spędzimy na piwie w pobliskim pubie.
+Wszystkie trzy tematy powinny być przyjazne dla początkujących!
+
+Po prezentacjach planowana część nieoficjalna w jednym z pobliskich pubów.
 
 "Wątek na forum":http://rubyonrails.pl/forum/t4545-pa%BCdziernik-05.10 .
