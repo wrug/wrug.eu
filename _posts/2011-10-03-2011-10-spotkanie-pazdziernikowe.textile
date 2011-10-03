@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: 2011-10 spotkanie październikowe
+---
+Pierwsza środa miesiąca, czyli 5. października.
+
+"Miejsce i godzina jak zwykle":/place
+
+Obrodziły nam prezentacje:
+* Piotr Sarnacki: Pisanie i testowanie JSON API
+* Mateusz Bil: CSS3 - it's a kind of magic
+* Sławosz Sławiński: Grafowa baza danych "neo4j":http://neo4j.org/ (może tym razem się uda ;))
+
+Po prezentacji dalszą część wieczoru spędzimy na piwie w pobliskim pubie.
+
+"Wątek na forum":http://rubyonrails.pl/forum/t4545-pa%BCdziernik-05.10 .
