@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: 2011-11 spotkanie listopadowe
+---
+Żeby nie kolidować z Zaduszkami, tym razem wyjątkowo druga środa miesiąca, czyli 9. listopada.
+
+"Miejsce i godzina jak zwykle":/place
+
+Dwie prezentacje tym razem:
+* Aleksander Dąbrowski: słów kilka o Netzke i jego stosowaniu
+* Tomasz Stachewicz: Deface, czyli co każda Mountable App wspierać powinna
+
+Będzie trochę bardziej technicznie i specjalistycznie.
+
+Po prezentacjach planowana część nieoficjalna w jednym z pobliskich pubów.
+
+"Wątek na forum":http://rubyonrails.pl/forum/t4630-listopad-9.11 .
