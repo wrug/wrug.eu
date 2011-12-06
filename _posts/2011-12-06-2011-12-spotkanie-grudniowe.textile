@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: 2011-12 spotkanie grudniowe
+---
+Mikołaj przyniósł nam dużo ciekawych prezentacji i nową salę.
+
+Piotr Sarnacki: "HTTP i budowanie JSON API" 
+Łukasz Bandzarewicz: "The Perfect RSpec" (Łukasz przyjeżdza specjalnie z Krakowa)
+Tomasz Stachewicz: "Deface, czyli co każda Mountable App wspierać powinna"
+
+Po prezentacjach idziemy na piwo.
+
+Zapraszamy,
+
+Dodatek: Jak trafić do nowej sali?
+
+<iframe width='425' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='http://jakdojade.pl/pages/mapWidget.html?tn=Biuro%20Connectmedica&td=Wo%C5%82oska%2022%20(wej%C5%9Bcie%20od%20Magazynowej)&tc=52.18525:21.00458&cid=3000'></iframe>
+
+Jeżdzą tam tramwaje: 17 i 18 bezpośrednio z centrum i 31 z metra Wierzbno (jakieś 6 minut tramwajem).
+
+Adres to Wołoska 22, ale wejście z powodu budowy jest od ulicy Magazynowej.
+
+Podchodzimy do pani na recepcji, mówimy, że na Wrug do Connectmediki, dostajemy przepustkę i jedziemy windą na 11 piętro. 
+
+Osoby, które potwierdzą obecność na fejsie, szybciej przejdą przez recepcję, bo będzie po prostu lista uczestników w recepcji, pozsotali będą chyba musieli się wylegitymować.
