@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: 2012-03 spotkanie marcowe
+---
+
+  Tym razem trochę nietypowo spotykamy się:
+
+*20 Marca o 18:30* w Laboratorium Technik Mobilnych BRAMA: ("http://brama.elka.pw.edu.pl/site/":http://brama.elka.pw.edu.pl/site/)
+
+Gmach Wydziału Elektroniki i Technik Informacyjnych PW, Nowowiejska 15/19,
+w sali 039 (w podziemiach)
+
+Planowane prezentacje (tematy mogą ulec zmianie)
+
+1. Piotrek Włodarek "Qertoip": ??Poziomy izolacji transakcji??
+2. Piotr Sarnacki "Drogus": ??Debugger w Rails??
+3. Tomasz Stachewicz "Tomash": ??Deface??
+
+
+Zapraszamy!
+
+
+Mapka dojazdu:
+
+<iframe width='820' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='http://jakdojade.pl/pages/mapWidget.html?tn=Spotkanie%20marcowe%20WRUG&td=Laboratorium%20BRAMA%0AWydzia%C5%82%20Elektroniki%20i%20Technik%20Informacyjnych%20Politechniki%20Warszawskiej%20%3Cbr/%3E%0Aul.%20Nowowiejska%2015/19,%0A00-665%20Warszawa%0ASala%20039%20(poziom%20-1)&tc=52.21891:21.01204&cid=3000'></iframe>
