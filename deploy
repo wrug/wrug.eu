@@ -1,5 +1,5 @@
 echo 'Building...' 
 jekyll --pygments
 echo 'Pushing...'
-rsync -avz --delete _site/ ror-wrug@wrug.eu:~/public_html/
+rsync -avz --delete _site/ wrug@wrug.eu:~/public_html/
 
