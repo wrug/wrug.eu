@@ -9,7 +9,7 @@ W maju spotykamy się *15. maja o 18.30* w Cafe Śródmiejska ("fanpejdż na FB"
 
 Planowane prezentacje (tematy mogą ulec zmianie):
 
-1. "Maykel": rails-api, czyli Railsy przycięte do potrzeb wyłącznie udostępniania API
+1. Michał "Maykel" Prawda: rails-api, czyli Railsy przycięte do potrzeb wyłącznie udostępniania API
 2. Tomasz "Tomash" Stachewicz: gem Backup
 
 Odbędzie się także sesja _lightning talks_, czyli pięciominutowych prezentacji. Wśród dających lightninga zostaną rozlosowane kupony pozwalające kupić jeden z najbardziej deficytowych towarów ostatnich miesięcy, czyli bilety na konferencję EuRuKo! "Szczegóły akcji w temacie na forum":http://rubyonrails.pl/forum/t5203-Bilety-na-EuRuKo-dla-WRUG-%28yay%21%29
