@@ -18,4 +18,4 @@ Zapraszamy!
 
 
 Mapka dojazdu:
-<iframe width='820' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='http://jakdojade.pl/pages/mapWidget.html?tn=WRUG%20-%20spotkanie%20kwietniowe&td=Cafe%20%C5%9Ar%C3%B3dmiejska%20%3Cbr/%3E%0AMarsza%C5%82kowska%2066%20%3Cbr/%3E%0A%20%3Cbr/%3E%0A17.%20kwietnia%202012,%20godzina%2018:30&tc=52.22717:21.01513&cid=3000'></iframe>
+<iframe width='820' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='http://jakdojade.pl/pages/mapWidget.html?tn=WRUG%20-%20spotkanie%20majowe&td=Cafe%20%C5%9Ar%C3%B3dmiejska%20%3Cbr/%3E%0AMarsza%C5%82kowska%2066%20%3Cbr/%3E%0A%20%3Cbr/%3E%0A15.%20maja%202012,%20godzina%2018:30&tc=52.22501:21.0151&cid=3000'></iframe>
