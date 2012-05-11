@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: 2012-05 spotkanie majowe
+---
+
+Cafe Śródmiejska okazała się świetnym miejscem, więc kontynuujemy spotkania w jej gościnnych progach.
+
+W maju spotykamy się *15. maja o 18.30* w Cafe Śródmiejska ("fanpejdż na FB":https://www.facebook.com/pages/%C5%9Ar%C3%B3dmiejska/114312508670122), ul. Marszałkowska 66 (róg Wilczej).
+
+Planowane prezentacje (tematy mogą ulec zmianie):
+
+1. "Maykel": rails-api, czyli Railsy przycięte do potrzeb wyłącznie udostępniania API
+2. Tomasz "Tomash" Stachewicz: gem Backup
+
+Odbędzie się także sesja _lightning talks_, czyli pięciominutowych prezentacji. Wśród dających lightninga zostaną rozlosowane kupony pozwalające kupić jeden z najbardziej deficytowych towarów ostatnich miesięcy, czyli bilety na konferencję EuRuKo! "Szczegóły akcji w temacie na forum":http://rubyonrails.pl/forum/t5203-Bilety-na-EuRuKo-dla-WRUG-%28yay%21%29
+
+Zapraszamy!
+
+
+Mapka dojazdu:
+<iframe width='820' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='http://jakdojade.pl/pages/mapWidget.html?tn=WRUG%20-%20spotkanie%20kwietniowe&td=Cafe%20%C5%9Ar%C3%B3dmiejska%20%3Cbr/%3E%0AMarsza%C5%82kowska%2066%20%3Cbr/%3E%0A%20%3Cbr/%3E%0A17.%20kwietnia%202012,%20godzina%2018:30&tc=52.22717:21.01513&cid=3000'></iframe>
