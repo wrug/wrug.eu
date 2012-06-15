@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: 2012-06 spotkanie czerwcowe
+---
+
+W związku ze zbliżającą się konferencją "lightning.io":http://lightning.io postanowiliśmy zrobić małą rozgrzewkę: najbliższe spotkanie WRUG odbędzie się w tej samej, co konferencja, konwencji.
+
+
+O co chodzi?
+
+
+Spotkanie będze się składało wyłącznie z _lightning talks_, czyli pięciominutowych prezentacji.
+*Każdy* uczestnik jest zobowiązany do przygotowania i przedstawienia krótkiej prezentacji mieszczącej się w wyznaczonym czasie.
+Temat nie musi być stricte związany z branżą IT. Robisz coś nietypowego? Masz jakieś ciekawe doświadczenia? Chcesz innych zarazić swoją pasją? Przyjdź i podziel się z innymi!
+
+
+Spotykamy się *19 Czerwca o 18:30* w Laboratorium Technik Mobilnych BRAMA: ("http://brama.elka.pw.edu.pl/site/":http://brama.elka.pw.edu.pl/site/)
+
+Gmach Wydziału Elektroniki i Technik Informacyjnych PW, Nowowiejska 15/19,
+w sali 039 (w podziemiach)
+
+Serdecznie zapraszamy bo szykuje się fantastyczna zabawa!
+
+Mapka dojazdu:
+
+<iframe width='820' height='350' frameborder='0' scrolling='no' marginheight='0' marginwidth='0' src='http://jakdojade.pl/pages/mapWidget.html?tn=Spotkanie%20czerwcowe%20WRUG&td=Laboratorium%20BRAMA%0AWydzia%C5%82%20Elektroniki%20i%20Technik%20Informacyjnych%20Politechniki%20Warszawskiej%20%3Cbr/%3E%0Aul.%20Nowowiejska%2015/19,%0A00-665%20Warszawa%0ASala%20039%20(poziom%20-1)&tc=52.21891:21.01204&cid=3000'></iframe>
+
