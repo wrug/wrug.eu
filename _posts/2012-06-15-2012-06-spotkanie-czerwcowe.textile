@@ -3,15 +3,15 @@ layout: post
 title: 2012-06 spotkanie czerwcowe
 ---
 
-W związku ze zbliżającą się konferencją "lightning.io":http://lightning.io postanowiliśmy zrobić małą rozgrzewkę: najbliższe spotkanie WRUG odbędzie się w tej samej, co konferencja, konwencji.
+W związku ze zbliżającą się konferencją "lightning.io":http://lightning.io postanowiliśmy zrobić małą rozgrzewkę: najbliższe spotkanie WRUG odbędzie się w tej samej co konferencja konwencji.
 
 
 O co chodzi?
 
 
 Spotkanie będze się składało wyłącznie z _lightning talks_, czyli pięciominutowych prezentacji.
-*Każdy* uczestnik jest zobowiązany do przygotowania i przedstawienia krótkiej prezentacji mieszczącej się w wyznaczonym czasie.
-Temat nie musi być stricte związany z branżą IT. Robisz coś nietypowego? Masz jakieś ciekawe doświadczenia? Chcesz innych zarazić swoją pasją? Przyjdź i podziel się z innymi!
+*Każdy* uczestnik spotkania jest zobowiązany do przygotowania i przedstawienia krótkiej prezentacji mieszczącej się w wyznaczonym czasie.
+Temat nie musi być stricte związany z branżą IT. Nie musi być megapoważny. Na pewno jesteś w stanie przygotować pięciominutową prezentację na temat wart pokazania innym WRUGowiczom. Robisz coś nietypowego? Masz jakieś ciekawe doświadczenia? Chcesz innych zarazić swoją pasją? Przyjdź i podziel się z innymi!
 
 
 Spotykamy się *19 Czerwca o 18:30* w Laboratorium Technik Mobilnych BRAMA: ("http://brama.elka.pw.edu.pl/site/":http://brama.elka.pw.edu.pl/site/)
