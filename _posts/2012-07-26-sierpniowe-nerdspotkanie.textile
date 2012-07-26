@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: spotkanie czerwcowe
+---
+
+W ramach walki z sezonem ogórkowym zapraszamy na sierpniowe nerdspotkanie rubiowo-pythonowe w trochę niekonwencjonalnej formule.
+
+Przyjdź i, jeśli chcesz, krótko (10 minut?) opowiedz o swoim ulubionym startupie, projekcie, bibliotece (czy czymkolwiek, co Cię kręci) – i pogadaj z innymi przy zorganizowanych przez nas trunkach.
+(tak, FREE BEER)
+
+Gdzie? Biuro SetJam, ul. Puławska 39 lokal 60, wejście przy aptece (jeśli byliście kiedyś na Djangopiwie, to wiecie gdzie).
+
+Od godziny 18:00, żeby sobotnią noc zostawić na bardziej huczne imprezy.
