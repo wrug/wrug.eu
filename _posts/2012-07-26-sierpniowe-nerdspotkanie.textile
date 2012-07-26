@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: spotkanie czerwcowe
+title: Sierpniowe nerdspotkanie rubiowo-pythonowe
 ---
 
 W ramach walki z sezonem ogórkowym zapraszamy na sierpniowe nerdspotkanie rubiowo-pythonowe w trochę niekonwencjonalnej formule.
