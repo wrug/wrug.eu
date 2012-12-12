@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: Sierpniowe grudniowe o Jenkinsie i YARV-ie
+title: Spotkanie grudniowe o Jenkinsie i YARV-ie
 ---
 
 Gorąco zapraszamy na ostatnie w tym roku spotkanie WRUG-a, tym razem w siedzibie Warszawskiego Hackerspace’u.
