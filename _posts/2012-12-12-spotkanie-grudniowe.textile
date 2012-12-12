@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Sierpniowe grudniowe o Jenkinsie i YARV-ie
+---
+
+Gorąco zapraszamy na ostatnie w tym roku spotkanie
+WRUG-a, tym razem w siedzibie Warszawskiego Hackerspace’u.
+
+Esse opowie o stawianiu Jenkinsa od podstaw (zaczynamy
+z czystą VM, kończymy z działającym CI dla przykładowej
+railsowej aplikacji), a janek o milionie rzeczy, które
+musi zrobić YARV zanim wykona Twój kod. Do tego oczywiście
+lightning talki dla chętnych i ogólne socjalizowanie się.
+
+Kiedy? Środa, 19 grudnia 2012, 18:30.
+
+Gdzie? <a href='https://wiki.hackerspace.pl/doku.php?id=space'>Warszawski Hackerspace</a>, budynek Instytutu Radio- i Teletechnicznego, ul. Długa 44.
+
+Zapraszamy!
