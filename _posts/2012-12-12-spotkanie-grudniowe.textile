@@ -1,12 +1,12 @@
 --- 
 layout: post
-title: Spotkanie grudniowe o Jenkinsie i YARV-ie
+title: Spotkanie grudniowe o Jenkinsie, YARV-ie i wzorcu specyfikacji
 ---
 
 Gorąco zapraszamy na ostatnie w tym roku spotkanie WRUG-a, tym razem w siedzibie Warszawskiego Hackerspace’u.
 
 Esse opowie o stawianiu Jenkinsa od podstaw (zaczynamy z czystą VM, kończymy z działającym CI dla przykładowej
-railsowej aplikacji), a Janek o milionie rzeczy, które musi zrobić YARV zanim wykona Twój kod.
+railsowej aplikacji), Janek o milionie rzeczy, które musi zrobić YARV zanim wykona Twój kod, a rui o wzorcu projektowym specification.
 
 Do tego oczywiście lightning talki (jeśli zgłoszą się chętni) i ogólne socjalizowanie się.
 
