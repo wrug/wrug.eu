@@ -22,8 +22,8 @@ Poniżej nagrania wystąpień (w kamerowaniu się jeszcze wprawiamy…):
 </iframe>
 
 Dziękując za liczne przybycie na styczniowego WRUG-a gorąco
-zapraszamy w lutym: też we wtorek, **19 lutego**, tym razem
-**o 19:00**, znów **na [Andersa 29](http://panstwomiasto.pl)**.
+zapraszamy w lutym: chwilowo ustalamy termin (18 lub 26
+lutego), znów **na [Andersa 29](http://panstwomiasto.pl)**.
 
 Tym razem planujemy zrobić spotkanie WRUG Light
 – z mniej zaawansowanymi tematami, a bardziej dostępne
