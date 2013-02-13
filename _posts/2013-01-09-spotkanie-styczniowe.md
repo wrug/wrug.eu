@@ -14,7 +14,7 @@ podjętych przez autorów decyzji dla prędkości całej implementacji).
 Do tego oczywiście lightning talki (jeśli zgłoszą się
 chętni) i ogólne socjalizowanie się **przy barze na miejscu**.
 
-Kiedy? Najbliższy wtorek, 15 stycznia 2012, 18:30.
+Kiedy? Najbliższy wtorek, 15 stycznia 2013, 18:30.
 
 Gdzie? [Państwomiasto](http://panstwomiasto.pl) na
 Andersa 29 (jeden przystanek tramwajem lub 10 minut
