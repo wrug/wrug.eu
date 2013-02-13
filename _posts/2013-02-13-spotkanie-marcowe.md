@@ -15,7 +15,7 @@ o Sinatrze, a Zły opowie o jQuery Mobile.
 Do tego oczywiście lightning talki (jeśli zgłoszą się
 chętni) i ogólne socjalizowanie się **przy barze na miejscu**.
 
-Kiedy? We wtorek, **6 marca 2013, 18:30**.
+Kiedy? We wtorek, **5 marca 2013, 18:30**.
 
 Gdzie? [Państwomiasto](http://panstwomiasto.pl) na
 **Andersa 29** (jeden przystanek tramwajem lub 10
