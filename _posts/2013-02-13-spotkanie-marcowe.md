@@ -10,7 +10,8 @@ Po kilku spotkaniach z mocno zaawansowanymi tematami tym razem
 opowiemy o rzeczach łatwych i przyjemnych – przystępnych dla
 początkujących programistek i programistów, choć też wspomnimy
 o rzeczach interesujących dla zaawansowanych: Tomash opowie
-o Sinatrze, a Zły opowie o jQuery Mobile.
+o Sinatrze, Zły opowie o jQuery Mobile, a Tytus Ciunelis-Maciak
+o wirtualnych środowiskach deweloperskich.
 
 Do tego oczywiście lightning talki (jeśli zgłoszą się
 chętni) i ogólne socjalizowanie się **przy barze na miejscu**.
