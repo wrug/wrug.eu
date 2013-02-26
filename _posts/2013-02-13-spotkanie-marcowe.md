@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dwa spotkanie marcowe: WRUG i WRUG Light'
+title: 'Dwa spotkania marcowe: WRUG i WRUG Light'
 ---
 
 Gorąco zapraszamy na drugie i trzecie w tym roku spotkanie WRUG-a,
