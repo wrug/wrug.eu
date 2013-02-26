@@ -1,22 +1,24 @@
 ---
 layout: post
-title: 'Spotkanie marcowe: WRUG Light'
+title: 'Dwa spotkanie marcowe: WRUG i WRUG Light'
 ---
 
-Gorąco zapraszamy na drugie w tym roku spotkanie WRUG-a,
+Gorąco zapraszamy na drugie i trzecie w tym roku spotkanie WRUG-a,
 znów [w siedzibie Centrum Cyfrowego](http://panstwomiasto.pl).
 
-Po kilku spotkaniach z mocno zaawansowanymi tematami tym razem
-opowiemy o rzeczach łatwych i przyjemnych – przystępnych dla
-początkujących programistek i programistów, choć też wspomnimy
-o rzeczach interesujących dla zaawansowanych: Tomash opowie
-o Sinatrze, Zły opowie o jQuery Mobile, a Tytus Ciunelis-Maciak
-o wirtualnych środowiskach deweloperskich.
+W marcu spotykamy się dwa razy – we wtorek, 5 marca na
+regularnym WRUG-u, na którym Tytus Ciunelis-Maciak opowie
+o wirtualnych środowiskach deweloperskich, oraz we czwartek,
+28 marca na WRUG-u Light, na którym opowiemy o rzeczach
+przystępnych dla początkujących programistek i programistów
+(choć także interesujących dla zaawansowanych!): Tomash
+opowie o Sinatrze, a Zły opowie o jQuery Mobile.
 
-Do tego oczywiście lightning talki (jeśli zgłoszą się
-chętni) i ogólne socjalizowanie się **przy barze na miejscu**.
+Do tego oczywiście lightning talki (zapraszamy do zgłaszania
+się!) i ogólne socjalizowanie się **przy barze na miejscu**.
 
-Kiedy? We wtorek, **5 marca 2013, 18:30**.
+Kiedy? We wtorek, **5 marca 2013, 18:30**
+oraz we czwartek, **28 marca 2013, 18:30**.
 
 Gdzie? [Państwomiasto](http://panstwomiasto.pl) na
 **Andersa 29** (jeden przystanek tramwajem lub 10
