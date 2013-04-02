@@ -1,4 +1,6 @@
+.ruby-gemset
+.ruby-version
+.rvmrc
 _import/*
 _site/*
-.rvmrc
 files/*
