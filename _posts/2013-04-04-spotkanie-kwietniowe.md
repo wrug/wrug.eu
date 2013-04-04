@@ -6,7 +6,7 @@ title: Spotkania kwietniowe o Emberze.js, JRubym i TorqueBoxie
 Gorąco zapraszamy na czwarte w tym roku spotkanie WRUG-a,
 znów [w siedzibie Centrum Cyfrowego](http://panstwomiasto.pl).
 
-W kwietniu spotykamy się w środę, 10 kwietnia; Krzysztof Modras
+Tym razem spotykamy się w środę, 10 kwietnia; Krzysztof Modras
 opowie o [Emberze.js](http://emberjs.com), a Hubert Łępicki
 o [JRubym](http://jruby.org) i [TorqueBoxie](http://torquebox.org).
 
