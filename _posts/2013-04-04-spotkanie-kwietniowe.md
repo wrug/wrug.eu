@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotkania kwietniowe o Emberze.js, JRubym i TorqueBoxie
+title: Spotkanie kwietniowe o Emberze.js, JRubym i TorqueBoxie
 ---
 
 Gorąco zapraszamy na czwarte w tym roku spotkanie WRUG-a,
