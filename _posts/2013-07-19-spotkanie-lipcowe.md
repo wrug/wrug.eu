@@ -17,6 +17,9 @@ do zgłaszania się!) i ogólne socjalizowanie **przy barze
 na miejscu**, tym razem **z napojami (o dowolnym składzie)
 zasponsorowanymi przez [Rebased](http://rebased.pl)**.
 
+W ramach eksperymetu testujemy też Meetup – [zapraszamy do zapisania
+się](http://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/129198182/).
+
 Kiedy? We czwartek, **25 lipca 2013, 18:30**.
 
 Gdzie? [Państwomiasto](http://panstwomiasto.pl) na
