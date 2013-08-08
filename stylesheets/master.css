@@ -1,3 +1,11 @@
+@font-face {
+  font-family: 'Lobster';
+  src: url('fonts/Lobster 1.4.eot');
+  src: local('☺'), url('fonts/Lobster 1.4.woff') format('woff'), url('fonts/Lobster 1.4.ttf') format('truetype'), url('fonts/Lobster 1.4.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html {
   background: transparent url(/images/bg.png) 0 0;
 }
