@@ -1,0 +1,44 @@
+- fullname: Jan Stępień
+  gravatar: 8666f7a05688031004c8c0bc7e0dcef7
+  talks:
+    - title: Milion rzeczy, które musi zrobić YARV zanim wykona Twój kod
+      slides: https://speakerdeck.com/jan/milion-rzeczy-ktore-musi-zrobic-yarv-zanim-wykona-twoj-kod
+    - title: Kompilator Ruby – C
+      slides: https://speakerdeck.com/jan/kompilator-ruby-c
+- fullname: Tomasz Stachewicz
+  gravatar: 6fcb5c86ead5d0eaab5e7ca313d00007
+  talks:
+    - title: Raspberry Pi for Ruby hackers
+      slides: http://tomash.github.com/talks/wrug-20121219-raspberry-pi/
+- fullname: Piotr Misiurek
+  gravatar: 123
+  talks:
+    - slides: https://docs.google.com/presentation/d/17VzIZjuUqhZLcDKufesqMlEHXGtTYBsqKMd7YCYXjMU/edit
+      title: Cross-Origin Resource Sharing with Rails
+    - slides: https://docs.google.com/presentation/d/1PH3QrdF9cqf4jmVfIQQV8pKXVB3_enOW3phu7octhPg/edit
+      title: Tworzenie apek mobilnych
+- fullname: Filip Tepper
+  gravatar: abc
+  talks:
+    - slides: https://speakerdeck.com/u/filiptepper/p/rails-cache
+      title: Rails & Cache
+- fullname: Marta Paciorkowska
+  gravatar: 321
+  talks:
+    - slides: https://docs.google.com/presentation/d/1bkJMwlMwH4g6Xkrd5P2Z1SBQ9-Lkgsg9lU4twj8EvA8/edit
+      title: "NGOs: crash tour"
+- fullname: Łukasz Sarnacki
+  gravatar: qwe
+  talks:
+    - slides: http://usetheawesomenessluke.com/talks/2012-04-17-ux/
+      title: Podstawy projektowania UX dla programistów
+- fullname: Paweł Kondzior
+  gravatar: zxc
+  talks:
+    - slides: /files/Chef-WRUG_Kwiecien_2012.pdf
+      title: Chef
+- fullname: Piotr Włodarek
+  gravatar: asd
+  talks:
+    - slides: http://github.com/qertoip/Transaction-Isolation-in-Ruby-on-Rails-applications
+      title: Poziomy izolacji transakcji
