@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spotkanie październikowe o TopCoderze, SSH i życiu bez ciastek
+title: Spotkanie październikowe o SSH i życiu bez ciastek
 ---
 
 Już za dwa tygodnie, **22 października**, zapraszamy
