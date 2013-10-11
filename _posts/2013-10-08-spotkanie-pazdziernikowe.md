@@ -34,4 +34,7 @@ Gdzie? [Państwomiasto](http://panstwomiasto.pl) na
 **Andersa 29** (jeden przystanek tramwajem lub 10
 minut spacerem z metra Dworzec Gdański lub metra Ratusz).
 
+Zapraszamy do dopisania się przez
+[Facebooka](https://www.facebook.com/events/428755057234255/).
+
 Zapraszamy!
