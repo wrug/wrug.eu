@@ -35,6 +35,7 @@ Gdzie? [Państwomiasto](http://panstwomiasto.pl) na
 minut spacerem z metra Dworzec Gdański lub metra Ratusz).
 
 Zapraszamy do dopisania się przez
-[Facebooka](https://www.facebook.com/events/428755057234255/).
+[Meetup](http://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/145202622/)
+lub [Facebooka](https://www.facebook.com/events/428755057234255/).
 
 Zapraszamy!
