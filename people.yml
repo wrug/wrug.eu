@@ -3,42 +3,124 @@
   talks:
     - title: Milion rzeczy, które musi zrobić YARV zanim wykona Twój kod
       slides: https://speakerdeck.com/jan/milion-rzeczy-ktore-musi-zrobic-yarv-zanim-wykona-twoj-kod
-    - title: Kompilator Ruby – C
+      date: 2012/12
+    - title: Rubinius VM
       slides: https://speakerdeck.com/jan/kompilator-ruby-c
+      date: 2013/01
 - fullname: Tomasz Stachewicz
   gravatar: 6fcb5c86ead5d0eaab5e7ca313d00007
   talks:
     - title: Raspberry Pi for Ruby hackers
       slides: http://tomash.github.com/talks/wrug-20121219-raspberry-pi/
+      date: 2012/12
+    - title: Co nowego w Rails 4
+      slides: https://www.youtube.com/watch?v=XkDwHW8rMcA
+      date: 2013/01
+    - title: Deface
+      slides: http://github.com/tomash/showoff-wrug-deface
+      date: 2012/03
 - fullname: Piotr Misiurek
   gravatar: 123
   talks:
     - slides: https://docs.google.com/presentation/d/17VzIZjuUqhZLcDKufesqMlEHXGtTYBsqKMd7YCYXjMU/edit
       title: Cross-Origin Resource Sharing with Rails
+      date: 2012/06
     - slides: https://docs.google.com/presentation/d/1PH3QrdF9cqf4jmVfIQQV8pKXVB3_enOW3phu7octhPg/edit
       title: Tworzenie apek mobilnych
+      date: 2012/05
+    - slides: /files/wrug-integracjeactivemerchanta.pdf
+      title: Integracje płatności do active merchanta
+      date: 2012/01
 - fullname: Filip Tepper
   gravatar: abc
   talks:
     - slides: https://speakerdeck.com/u/filiptepper/p/rails-cache
       title: Rails & Cache
+      date: 2012/01
 - fullname: Marta Paciorkowska
   gravatar: 321
   talks:
     - slides: https://docs.google.com/presentation/d/1bkJMwlMwH4g6Xkrd5P2Z1SBQ9-Lkgsg9lU4twj8EvA8/edit
       title: "NGOs: crash tour"
+      date: 2013/06
+    - slides: http://docs.google.com/file/d/0B_5gNaPpVP8IRXFlX3pzUzNfR2M/
+      title: Metaprogramowanie dla początkujących</a></p>
+      date: 2013/09
 - fullname: Łukasz Sarnacki
   gravatar: qwe
   talks:
     - slides: http://usetheawesomenessluke.com/talks/2012-04-17-ux/
       title: Podstawy projektowania UX dla programistów
+      date: 2012/04
 - fullname: Paweł Kondzior
   gravatar: zxc
   talks:
     - slides: /files/Chef-WRUG_Kwiecien_2012.pdf
       title: Chef
+      date: 2012/04
 - fullname: Piotr Włodarek
   gravatar: asd
   talks:
     - slides: http://github.com/qertoip/Transaction-Isolation-in-Ruby-on-Rails-applications
       title: Poziomy izolacji transakcji
+      date: 2012/03
+- fullname: Marcin Raczkowski
+  gravatar : 3d9bb0e523bb177965cf82fcf35402cf
+  talks: 
+    - slides: http://swistak.github.io/pokonaj_rekrutera
+      title: Pokonaj rekrutera
+      date: 2013/09
+    - slides: ""
+      title: Ruby ułatwia życie
+      date: 2012/04
+- fullname: Aleksander Dąbrowski
+  gravatar: 70037e355609caceae2500b183d28f58
+  talks: 
+    - slides: http://glass-wrug.herokuapp.com
+      title: Pisanie aplikacji na Google Glass w Rubym
+      date: 2013/07
+    - slides: http://ruby193.heroku.com/#
+      title: Co nowego w Ruby 1.9.3
+      video: http://vimeo.com/33959660
+      date: 2011/12
+- fullname: Piotr Szotkowski
+  gravatar: 2c8e31a29536fc0acb263645ff36b19a
+  talks: 
+    - slides: http://bogus-wrug-2013-07.herokuapp.com/
+      title: Bogus - a brief introduction
+      date: 2013/07
+- fullname: Maciej Pasternacki
+  gravatar: 123
+  talks: 
+    - slides: https://www.youtube.com/watch?v=4E-FaheHfjY
+      title: Minigit
+      date: 2013/05
+- fullname: Łukasz Pełszyński
+  gravatar: xyz
+  talks:
+    - slides: https://www.youtube.com/watch?v=uJnoFYVfdko
+      title: Wątki w przestrzeni użytkownika
+      date: 2013/05
+- fullname: Krzysztof Modras
+  gravatar: 345
+  talks: 
+    - slides: https://www.youtube.com/watch?v=i6ByaXw6sXU
+      title: Ember.js
+      date: 2013/04
+- fullname: Hubert Łępicki
+  gravatar: 6bf9328eef0afadd9c9d05334f8dd42b
+  talks: 
+    - slides: https://www.youtube.com/watch?v=Fe8-EC3_dwY
+      title: Torquebox i JRuby 
+      date: 2013/04
+- fullname: Piotr Sarnacki
+  gravatar: 582034b63279abeaa8e76acf12f5ee30
+  talks: 
+    - slides: http://piotrsarnacki.com/2012/03/25/ruby-debug/
+      title: Debugger
+      date: 2012/03
+    - slides: http://json-on-rails-wrug.heroku.com/#1
+      video: http://vimeo.com/33959660
+      title: HTTP i budowanie JSON API
+      date: 2011/12
+
