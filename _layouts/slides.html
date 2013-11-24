@@ -5,7 +5,12 @@
   {% for meeting in page.meetings %}
     <h3>WRUG {{ meeting[0]}}</h3>
     {% for talk in meeting[1] %}
-      <p><a href="{{talk.slides}}">{{talk.author}}: {{talk.title}}</a></p>
+    <p>
+        {% if talk.video %}
+          <strong><a href="{{talk.video}}">Nagranie</a></strong>
+        {% endif %}
+      <a href="{{talk.slides}}">{{talk.author}}: {{talk.title}}</a>
+    </p>
     {% endfor %}
   {% endfor %}
 </article>

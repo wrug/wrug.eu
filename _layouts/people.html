@@ -8,6 +8,9 @@
     <ul class="talks">
       {% for talk in person.talks %}
       <li class="talk">
+        {% if talk.video %}
+          <strong><a href="{{talk.video}}">Nagranie</a></strong>
+        {% endif %}
         <a href="{{ talk.slides }}">
           {{ talk.title }}
         </a>
