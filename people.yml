@@ -14,7 +14,8 @@
       slides: http://tomash.github.com/talks/wrug-20121219-raspberry-pi/
       date: 2012/12
     - title: Co nowego w Rails 4
-      slides: https://www.youtube.com/watch?v=XkDwHW8rMcA
+      video: https://www.youtube.com/watch?v=XkDwHW8rMcA
+      slides: http://goo.gl/Ta6vQ
       date: 2013/01
     - title: Deface
       slides: http://github.com/tomash/showoff-wrug-deface
@@ -32,13 +33,13 @@
       title: Integracje płatności do active merchanta
       date: 2012/01
 - fullname: Filip Tepper
-  gravatar: abc
+  gravatar: 953d27ff0800b1be886aad4a4be8f03f
   talks:
     - slides: https://speakerdeck.com/u/filiptepper/p/rails-cache
       title: Rails & Cache
       date: 2012/01
 - fullname: Marta Paciorkowska
-  gravatar: 321
+  gravatar: 039602d3cb2cf1d8029667b8e833d11c
   talks:
     - slides: https://docs.google.com/presentation/d/1bkJMwlMwH4g6Xkrd5P2Z1SBQ9-Lkgsg9lU4twj8EvA8/edit
       title: "NGOs: crash tour"
@@ -47,19 +48,19 @@
       title: Metaprogramowanie dla początkujących</a></p>
       date: 2013/09
 - fullname: Łukasz Sarnacki
-  gravatar: qwe
+  gravatar: d024c4cf2b180107a48210fa908022cb 
   talks:
     - slides: http://usetheawesomenessluke.com/talks/2012-04-17-ux/
       title: Podstawy projektowania UX dla programistów
       date: 2012/04
 - fullname: Paweł Kondzior
-  gravatar: zxc
+  gravatar: 22ffeede16982c3b8b03d80f4f2dc446
   talks:
     - slides: /files/Chef-WRUG_Kwiecien_2012.pdf
       title: Chef
       date: 2012/04
 - fullname: Piotr Włodarek
-  gravatar: asd
+  gravatar: b8cd05c1c25969a0b3044bfc9f2da6d7
   talks:
     - slides: http://github.com/qertoip/Transaction-Isolation-in-Ruby-on-Rails-applications
       title: Poziomy izolacji transakcji
@@ -90,19 +91,19 @@
       title: Bogus - a brief introduction
       date: 2013/07
 - fullname: Maciej Pasternacki
-  gravatar: 123
+  gravatar: 1bd1f0ff92bed69bfb53eefa9fd606f8
   talks: 
     - slides: https://www.youtube.com/watch?v=4E-FaheHfjY
       title: Minigit
       date: 2013/05
 - fullname: Łukasz Pełszyński
-  gravatar: xyz
+  gravatar: a18f0fb2aeae995a8be59479d82aee7c
   talks:
     - slides: https://www.youtube.com/watch?v=uJnoFYVfdko
       title: Wątki w przestrzeni użytkownika
       date: 2013/05
 - fullname: Krzysztof Modras
-  gravatar: 345
+  gravatar: 8434b59c8bb7354ac486a8e71ab57051
   talks: 
     - slides: https://www.youtube.com/watch?v=i6ByaXw6sXU
       title: Ember.js
