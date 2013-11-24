@@ -125,6 +125,7 @@
   gravatar: 8434b59c8bb7354ac486a8e71ab57051
   talks: 
     - slides: https://www.youtube.com/watch?v=i6ByaXw6sXU
+      video: https://www.youtube.com/watch?v=i6ByaXw6sXU
       title: Ember.js
       date: 2013/04
 - fullname: Hubert Łępicki
