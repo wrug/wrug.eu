@@ -1,0 +1,169 @@
+- fullname: Jan Stępień
+  gravatar: 8666f7a05688031004c8c0bc7e0dcef7
+  talks:
+    - title: Milion rzeczy, które musi zrobić YARV zanim wykona Twój kod
+      slides: https://speakerdeck.com/jan/milion-rzeczy-ktore-musi-zrobic-yarv-zanim-wykona-twoj-kod
+      date: 2012/12
+    - title: Rubinius VM
+      slides: https://speakerdeck.com/jan/kompilator-ruby-c
+      video: http://www.youtube.com/watch?v=JN-UTKek8zg
+      date: 2013/01
+- fullname: Tomasz Stachewicz
+  gravatar: 6fcb5c86ead5d0eaab5e7ca313d00007
+  talks:
+    - title: Raspberry Pi for Ruby hackers
+      slides: http://tomash.github.com/talks/wrug-20121219-raspberry-pi/
+      date: 2012/12
+    - title: Co nowego w Rails 4
+      video: https://www.youtube.com/watch?v=XkDwHW8rMcA
+      slides: http://goo.gl/Ta6vQ
+      date: 2013/01
+    - title: Deface
+      slides: http://github.com/tomash/showoff-wrug-deface
+      date: 2012/03
+    - title: Unicorn - prawdopodobnie najlepszy serwer aplikacji Rack
+      slides: http://tomash.wrug.eu/blog/2010/01/30/the-awesomeness-of-unicorn/
+      video: https://vimeo.com/9175592
+      date: 2010/02
+- fullname: Piotr Misiurek
+  gravatar: 123
+  talks:
+    - slides: https://docs.google.com/presentation/d/17VzIZjuUqhZLcDKufesqMlEHXGtTYBsqKMd7YCYXjMU/edit
+      title: Cross-Origin Resource Sharing with Rails
+      date: 2012/06
+    - slides: https://docs.google.com/presentation/d/1PH3QrdF9cqf4jmVfIQQV8pKXVB3_enOW3phu7octhPg/edit
+      title: Tworzenie apek mobilnych
+      date: 2012/05
+    - slides: /files/wrug-integracjeactivemerchanta.pdf
+      title: Integracje płatności do active merchanta
+      date: 2012/01
+- fullname: Filip Tepper
+  gravatar: 953d27ff0800b1be886aad4a4be8f03f
+  talks:
+    - slides: https://speakerdeck.com/u/filiptepper/p/rails-cache
+      title: Rails & Cache
+      date: 2012/01
+- fullname: Marta Paciorkowska
+  gravatar: 039602d3cb2cf1d8029667b8e833d11c
+  talks:
+    - slides: https://docs.google.com/presentation/d/1bkJMwlMwH4g6Xkrd5P2Z1SBQ9-Lkgsg9lU4twj8EvA8/edit
+      title: "NGOs: crash tour"
+      date: 2013/06
+    - slides: http://docs.google.com/file/d/0B_5gNaPpVP8IRXFlX3pzUzNfR2M/
+      title: Metaprogramowanie dla początkujących</a></p>
+      date: 2013/09
+- fullname: Łukasz Sarnacki
+  gravatar: d024c4cf2b180107a48210fa908022cb 
+  talks:
+    - slides: http://usetheawesomenessluke.com/talks/2012-04-17-ux/
+      title: Podstawy projektowania UX dla programistów
+      date: 2012/04
+- fullname: Paweł Kondzior
+  gravatar: 22ffeede16982c3b8b03d80f4f2dc446
+  talks:
+    - slides: /files/Chef-WRUG_Kwiecien_2012.pdf
+      title: Chef
+      date: 2012/04
+- fullname: Piotr Włodarek
+  gravatar: b8cd05c1c25969a0b3044bfc9f2da6d7
+  talks:
+    - slides: http://github.com/qertoip/Transaction-Isolation-in-Ruby-on-Rails-applications
+      title: Poziomy izolacji transakcji
+      date: 2012/03
+- fullname: Marcin Raczkowski
+  gravatar : 3d9bb0e523bb177965cf82fcf35402cf
+  talks: 
+    - slides: http://swistak.github.io/pokonaj_rekrutera
+      title: Pokonaj rekrutera
+      date: 2013/09
+    - slides: ""
+      title: Ruby ułatwia życie
+      date: 2012/04
+- fullname: Aleksander Dąbrowski
+  gravatar: 70037e355609caceae2500b183d28f58
+  talks: 
+    - slides: http://glass-wrug.herokuapp.com
+      title: Pisanie aplikacji na Google Glass w Rubym
+      date: 2013/07
+    - slides: http://ruby193.heroku.com/#
+      title: Co nowego w Ruby 1.9.3
+      video: http://vimeo.com/33959660
+      date: 2011/12
+    - slides: http://kawoskrypt.heroku.com
+      title: CoffeeScript – wprowadzenie
+      video: https://vimeo.com/26146358
+      date: 2011/05
+    - slides: https://vimeo.com/9906175
+      title: Co nowego w Rails 3
+      video: https://vimeo.com/9906175
+      date: 2010/03
+    - title: Sinatra - tworzenie aplikacji w jednym pliku
+      slides: https://vimeo.com/9176011
+      video: https://vimeo.com/9176011
+      date: 2010/02
+- fullname: Piotr Szotkowski
+  gravatar: 2c8e31a29536fc0acb263645ff36b19a
+  talks: 
+    - slides: http://bogus-wrug-2013-07.herokuapp.com/
+      title: Bogus - a brief introduction
+      date: 2013/07
+- fullname: Maciej Pasternacki
+  gravatar: 1bd1f0ff92bed69bfb53eefa9fd606f8
+  talks: 
+    - slides: https://www.youtube.com/watch?v=4E-FaheHfjY
+      video: https://www.youtube.com/watch?v=4E-FaheHfjY
+      title: Minigit
+      date: 2013/05
+- fullname: Łukasz Pełszyński
+  gravatar: a18f0fb2aeae995a8be59479d82aee7c
+  talks:
+    - slides: https://www.youtube.com/watch?v=uJnoFYVfdko
+      video: https://www.youtube.com/watch?v=uJnoFYVfdko
+      title: Wątki w przestrzeni użytkownika
+      date: 2013/05
+- fullname: Krzysztof Modras
+  gravatar: 8434b59c8bb7354ac486a8e71ab57051
+  talks: 
+    - slides: https://www.youtube.com/watch?v=i6ByaXw6sXU
+      video: https://www.youtube.com/watch?v=i6ByaXw6sXU
+      title: Ember.js
+      date: 2013/04
+- fullname: Hubert Łępicki
+  gravatar: 6bf9328eef0afadd9c9d05334f8dd42b
+  talks: 
+    - slides: https://www.youtube.com/watch?v=Fe8-EC3_dwY
+      video: https://www.youtube.com/watch?v=Fe8-EC3_dwY
+      title: Torquebox i JRuby 
+      date: 2013/04
+- fullname: Piotr Sarnacki
+  gravatar: 582034b63279abeaa8e76acf12f5ee30
+  talks: 
+    - slides: http://piotrsarnacki.com/2012/03/25/ruby-debug/
+      title: Debugger
+      date: 2012/03
+    - slides: http://json-on-rails-wrug.heroku.com/#1
+      video: http://vimeo.com/33959660
+      title: HTTP i budowanie JSON API
+      date: 2011/12
+    - slides: https://vimeo.com/26152223
+      video: https://vimeo.com/26152223
+      title: We buried fixtures too soon
+      date: 2011/05
+    - title: Capybara - nowy (lepszy?) Webrat
+      video: https://vimeo.com/9175802
+      slides: https://vimeo.com/9175802
+      date: 2010/02
+- fullname: Łukasz Adamczak
+  gravatar: 7551f6c0755e996a8679cab6a6d15754
+  talks:
+    - title: LASockyClient, czyli Socky i łebsokety na ajfonie
+      date: 2011/05
+      video: https://vimeo.com/26155338
+      slides: https://vimeo.com/26155338
+- fullname: Jarosław Rzeszótko
+  gravatar: 9c300b9f50804a3f7d559bf20f64a1c8
+  talks:
+    - title: WebSockets i WebGL - Nowe protokoły z rodziny WWW
+      date: 2010/03
+      slides: https://vimeo.com/9906526
+      video: https://vimeo.com/9906526
