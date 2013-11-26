@@ -1,5 +1,5 @@
 echo 'Building...' 
-jekyll build
+jekyll
 echo 'Pushing...'
 rsync -avz --delete _site/ wrug@wrug.eu:~/public_html/
 
