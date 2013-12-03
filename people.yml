@@ -43,6 +43,9 @@
     - slides: https://speakerdeck.com/u/filiptepper/p/rails-cache
       title: Rails & Cache
       date: 2012/01
+    - slides: http://filiptepper.github.io/talks/slides/2013-heroku-wrug/#/ 
+      title: Heroku praktycznie
+      date: 2013/11
 - fullname: Marta Paciorkowska
   gravatar: 039602d3cb2cf1d8029667b8e833d11c
   talks:
