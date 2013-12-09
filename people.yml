@@ -176,3 +176,9 @@
     - title: Ewolucja aplikacji webowych
       slides: http://mkwiatkowski.github.io/webapps-evolution-wrug-presentation/
       date: 2013/11
+- fullname: Magdalena Wójcik
+  gravatar: f558a0d0e2365a3a2844d6432be2c82e
+  talks:
+    - title: TopCoder.com Czym jest i jakie są z niego korzyści?
+      slides: http://slid.es/magdalenawojcik/topcoder-com
+      date: 2013/11
