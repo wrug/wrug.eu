@@ -191,3 +191,9 @@
     - title: TopCoder.com Czym jest i jakie są z niego korzyści?
       slides: http://slid.es/magdalenawojcik/topcoder-com
       date: 2013/11
+- fullname: Łukasz Piestrzeniewicz
+  gravatar: 690c8d4a36c18855f22ba087b555bc08
+  talks:
+    - title: Polished Ruby Developer - Jak być partnerem zamiast pracownikiem
+      slides: "https://docs.google.com/presentation/d/1OJLadNEpLDhXjUJ12jvpwoVLLOboHgOvcWMexYtcX4c/pub?start=false&loop=false&delayms=3000"
+      date: 2013/12
