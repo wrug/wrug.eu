@@ -76,6 +76,12 @@
     - slides: http://github.com/qertoip/Transaction-Isolation-in-Ruby-on-Rails-applications
       title: Poziomy izolacji transakcji
       date: 2012/03
+- fullname: Wojciech Ziniewicz
+  gravatar: 1f4661114b546739b147aed326e3b5f3
+  talks:
+    - slides: http://www.slideshare.net/WojciechZiniewicz/aws-opsworks-for-developers-and-designers-29146245
+      title: AWS Opsworks for developers and designers
+      date: 2013/12
 - fullname: Marcin Raczkowski
   gravatar : 3d9bb0e523bb177965cf82fcf35402cf
   talks: 
