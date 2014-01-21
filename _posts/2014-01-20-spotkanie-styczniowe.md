@@ -7,10 +7,15 @@ Już w przyszłym tygodniu, w **poniedziałek, 27 stycznia**, zapraszamy
 na pierwsze w tym roku spotkanie WRUG, znów [w siedzibie
 Centrum Cyfrowego](http://panstwomiasto.pl).
 
-Piotrek Zientara opowie o debugowaniu dla początkujących,
-Łukasz „Sarniak” Sarniacki o Neo4j, a Piotr
-„Drogus” Sarnacki o Ember.js – szczegóły [w
-wątku na forum](http://forum.rubyonrails.pl/t/wrug-styczniowy-27-01-poniedzialek/6756).
+Piotr Zientara opowie o debugowaniu dla początkujących (i nie
+tylko), z perspektywy świeżo upieczonego absolwenta Coder’s Lab.
+
+Łukasz „Sarniak” Sarnacki opowie o Neo4j, czyli grafowej bazie danych:
+założenia, narzędzia i gdzie jej wykorzystanie ma najwięcej sensu.
+
+Piotr „Drogomir” Sarnacki opowie o Ember.js. Będzie
+to wprowadzenie do tego popularnego javascriptowego
+frameworka i jak się różni od Angular.js czy Backbone.
 
 Poza wystąpieniami będą też lightning talki i ogólne
 socjalizowanie przy barze na miejscu, **z napojami (o
