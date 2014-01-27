@@ -69,6 +69,9 @@
       date: 2013/12
       slides: '#'
       video: http://www.youtube.com/watch?v=2OriuE04_3g#t=5m40s
+    - title: neo4j - wprowadzenie
+      date: 2014/01
+      slides: https://dl.dropboxusercontent.com/u/3093702/2013-01-26-neo4j-introduction/neo4j.pdf
 - fullname: Paweł Kondzior
   gravatar: 22ffeede16982c3b8b03d80f4f2dc446
   talks:
