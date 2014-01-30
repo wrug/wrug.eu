@@ -72,6 +72,12 @@
     - title: neo4j - wprowadzenie
       date: 2014/01
       slides: https://dl.dropboxusercontent.com/u/3093702/2013-01-26-neo4j-introduction/neo4j.pdf
+- fullname: Piotr Zientara
+  gravatar: edc0a75b36f5ee1e9181acbc9cf2b311
+  talks:
+    - slides: http://prezi.com/2pxa7gwhh-ai/debugging/
+      title: Debugowanie dla początkujących
+      date: 2014/01
 - fullname: Paweł Kondzior
   gravatar: 22ffeede16982c3b8b03d80f4f2dc446
   talks:
