@@ -3,7 +3,7 @@ layout: post
 title: Spotkanie lutowe o Sassie, JavaScripcie i umiejętnościach miękkich
 ---
 
-W **ostatni poniedziałek lutego, 24 stycznia** zapraszamy
+W **ostatni poniedziałek lutego, 24 lutego** zapraszamy
 na drugie w tym roku spotkanie WRUG, znów [w siedzibie
 Centrum Cyfrowego](http://panstwomiasto.pl).
 
