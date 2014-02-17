@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Spotkanie lutowe o Sassie, JavaScripcie i umiejętnościach miękkich
+title: WRUG trochę Light o Sassie, JavaScripcie i umiejętnościach miękkich
 ---
 
 W **ostatni poniedziałek lutego, 24 lutego** zapraszamy
 na drugie w tym roku spotkanie WRUG, znów [w siedzibie
 Centrum Cyfrowego](http://panstwomiasto.pl).
 
-Krzysztof „Zły” Białek opowie o wykorzystaniu
-[Sass](http://sass-lang.com) na sto procent możliwości,
-Łukasz „Sarniak” Sarnacki o strukturyzowaniu kodu
-JavaScript, a Piotr Misiurek o umiejętnościach miękkich
+Tematyka wystąpień będzie przystępna dla początkujących, ale też
+atrakcyjna dla doświadczonych rubistów: Krzysztof „Zły” Białek
+opowie o wykorzystaniu [Sass](http://sass-lang.com) na sto
+procent możliwości, Łukasz „Sarniak” Sarnacki o strukturyzowaniu
+kodu JavaScript, a Piotr Misiurek o umiejętnościach miękkich
 jako elemencie krytycznym rozwoju kariery programisty.
 
 Poza wystąpieniami będą też lightning talki i ogólne
