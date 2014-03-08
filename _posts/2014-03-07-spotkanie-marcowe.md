@@ -9,7 +9,7 @@ zapraszamy na trzecie w tym roku spotkanie WRUG, tradycyjnie
 
 Piotrek Zientara opowie o filozofii w programowaniu w Rubym, Krzysztof
 „Zły” Białek o edytowalnej i18n z wykorzystaniem Redisa i Riddicka,
-a Dariusz Koryto o TDD w JavaScripcie z wykorzystaniem Karmy i Jasmine.
+a Dariusz Biedrzycki o TDD w JavaScripcie z wykorzystaniem Karmy i Jasmine.
 
 Poza wystąpieniami będą też lightning talki i ogólne
 socjalizowanie przy barze na miejscu, **z napojami
