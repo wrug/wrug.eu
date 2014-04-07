@@ -18,7 +18,7 @@ barze na miejscu, **z napojami (o dowolnym składzie) lub przekąskami
 zasponsorowanymi przez [El Passion](http://www.elpassion.com)
 i [Rebased](http://rebased.pl)**.
 
-[Rebased](http://rebased.pl) to dziesięciu świetnych programistów
+[Rebased](http://rebased.pl) to kilkunastu świetnych programistów
 i jeden specjalista od biznesu. Pracują dla klientów z USA, Wielkiej
 Brytanii, Niemiec, Szwecji, Holandii i nie tylko. Dostarczają.
 
