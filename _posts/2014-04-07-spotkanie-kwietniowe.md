@@ -11,7 +11,7 @@ Tomasz „Tomash” Stachewicz opowie o najlepszych kuracjach
 odchudzające dla modeli ActiveRecord, Łukasz „Sarniak” Sarnacki
 o Slimie w kwadrans, Krzysztof „Zły” Białek tym razem faktycznie
 opowie o edytowalnej i18n z wykorzystaniem Redisa i Riddicka,
-a Marta „Ameba” Paciorkowska o tym jak (i po co) tłumaczyć open source.
+a Marta „ameba” Paciorkowska o tym jak (i po co) tłumaczyć open source.
 
 Poza wystąpieniami będą też lightning talki i ogólne socjalizowanie przy
 barze na miejscu, **z napojami (o dowolnym składzie) lub przekąskami
