@@ -3,7 +3,7 @@ layout: post
 title: WRUG o szczupłych modelach AR, Slimie i lokalizacji
 ---
 
-Już za dwa tygodnie, w **Wielką Środę, 23 kwietnia**
+Już za dwa tygodnie, w **środę, 23 kwietnia**
 zapraszamy na czwarte w tym roku spotkanie WRUG, tradycyjnie
 [w siedzibie Centrum Cyfrowego](http://panstwomiasto.pl).
 
@@ -28,7 +28,7 @@ iOS i Android. Zlokalizowana w Warszawie, pracuje dla klientów
 z Europy Zachodniej oraz USA. Tworzy startupy technologiczne od
 podstaw, wykorzystując metodologie Agile oraz Lean.
 
-Kiedy? W Wielką Środę, **23 kwietnia 2014, o 18:30**.
+Kiedy? W środę, **23 kwietnia 2014, o 18:30**.
 
 Gdzie? W [Państwomieście](http://panstwomiasto.pl) na
 **Andersa 29** (jeden przystanek tramwajem lub 10 minut
