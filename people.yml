@@ -49,16 +49,19 @@
 - fullname: Marta Paciorkowska
   gravatar: 039602d3cb2cf1d8029667b8e833d11c
   talks:
-    - slides: https://docs.google.com/presentation/d/1bkJMwlMwH4g6Xkrd5P2Z1SBQ9-Lkgsg9lU4twj8EvA8/edit
+    - slides: https://speakerdeck.com/xamebax/ngos-a-crash-tour
       title: "NGOs: crash tour"
-      date: 2013/06
-    - slides: http://docs.google.com/file/d/0B_5gNaPpVP8IRXFlX3pzUzNfR2M/
-      title: Metaprogramowanie dla początkujących</a></p>
+      date: 2012/06
+    - slides: https://speakerdeck.com/xamebax/metaprogramowanie-dla-poczatkujacych
+      title: Metaprogramowanie dla początkujących
       date: 2013/09
     - slides: https://speakerdeck.com/xamebax/chef-browser
       title: Chef Browser 
       video: http://www.youtube.com/watch?v=2OriuE04_3g#t=1h19m
       date: 2013/12
+    - slides: https://speakerdeck.com/xamebax/jak-i-po-co-tlumaczyc-open-source
+      title: Jak (i po co) tłumaczyć open source
+      date: 2014/04
 - fullname: Łukasz Sarnacki
   gravatar: d024c4cf2b180107a48210fa908022cb 
   talks:
