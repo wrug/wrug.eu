@@ -10,7 +10,7 @@ zapraszamy na piąte w tym roku spotkanie WRUG, tradycyjnie
 Łukasz „Sarniak” Sarnacki opowie o Slimie w kwadrans,
 Krzysztof „chrmod” Modras o statusie ES6 i jak z nim
 żyć w&nbsp;dzisiejszych przeglądarkach, a Tomasz „warkocz”
-Warkocki o podstawach Arduino i sterowaniu num z Ruby’ego.
+Warkocki o podstawach Arduino i sterowaniu nim z Ruby’ego.
 
 Poza wystąpieniami będą też lightning talki i ogólne socjalizowanie
 przy barze na miejscu, **z napojami (o dowolnym składzie) lub
