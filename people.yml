@@ -25,6 +25,9 @@
       slides: http://tomash.wrug.eu/blog/2010/01/30/the-awesomeness-of-unicorn/
       video: https://vimeo.com/9175592
       date: 2010/02
+    - title: Odchudzanie modeli ActiveRecord
+      slides: #
+      date: 2014/04
 - fullname: Piotr Misiurek
   gravatar: 123
   talks:
@@ -78,6 +81,9 @@
     - title: Getting SLIM in 15 minutes
       date: 2014/05
       slides: https://dl.dropboxusercontent.com/u/3093702/2014-05-27%20slim/2014-05-27-SLIM.pdf
+    - title: Jak nie zrobić spaghetti z kodu javascript i jquery
+      date: 2014/02
+      slides: https://dl.dropboxusercontent.com/u/3093702/2013-02-24-javascript/presentation.pdf
 - fullname: Piotr Zientara
   gravatar: edc0a75b36f5ee1e9181acbc9cf2b311
   talks:
@@ -85,6 +91,9 @@
       title: Debugowanie dla początkujących
       video: http://www.youtube.com/watch?v=wgV61lFdkS4&list=UUqxwfW07y6Zddq9JxXBEPkw&feature=c4-overview
       date: 2014/01
+    - slides: #
+      title: Filozofia programowania w Rubym
+      date: 2014/03
 - fullname: Paweł Kondzior
   gravatar: 22ffeede16982c3b8b03d80f4f2dc446
   talks:
@@ -190,6 +199,9 @@
       video: https://vimeo.com/9175802
       slides: https://vimeo.com/9175802
       date: 2010/02
+    - title: Ember.js
+      slides: https://www.dropbox.com/s/ki5rbwyq3weffk3/ember-js.pdf
+      date: 2014/01
 - fullname: Łukasz Adamczak
   gravatar: 7551f6c0755e996a8679cab6a6d15754
   talks:
@@ -229,3 +241,18 @@
     - title: "Arduino & Ruby"
       slides: http://slides.com/warkocz/arduino-ruby
       date: 2014/05
+- fullname: Krzysztof Białek
+  gravatar: hgr
+  talks:
+    - title: Sass na sto procent 
+      date: 2014/02
+      slides: #
+    - title: Edytowalne i18n z wykorzystaniem Redisa i Riddicka
+      date: 2014/04
+      slides: #
+- fullname: Dariusz Biedrzycki
+  gravatar: tjk
+  talks: 
+    - title: TDD w JavaScripcie z wykorzystaniem Karmy i Jasmine
+      date: 2014/03
+      slides: #
