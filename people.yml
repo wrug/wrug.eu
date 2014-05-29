@@ -75,6 +75,9 @@
     - title: neo4j - wprowadzenie
       date: 2014/01
       slides: https://dl.dropboxusercontent.com/u/3093702/2013-01-26-neo4j-introduction/neo4j.pdf
+    - title: Getting SLIM in 15 minutes
+      date: 2014/05
+      slides: https://dl.dropboxusercontent.com/u/3093702/2014-05-27%20slim/2014-05-27-SLIM.pdf
 - fullname: Piotr Zientara
   gravatar: edc0a75b36f5ee1e9181acbc9cf2b311
   talks:
@@ -159,6 +162,9 @@
       video: https://www.youtube.com/watch?v=i6ByaXw6sXU
       title: Ember.js
       date: 2013/04
+    - slides: #
+      title: ES6
+      date: 2014/05
 - fullname: Hubert Łępicki
   gravatar: 6bf9328eef0afadd9c9d05334f8dd42b
   talks: 
@@ -217,3 +223,9 @@
       slides: "https://docs.google.com/presentation/d/1OJLadNEpLDhXjUJ12jvpwoVLLOboHgOvcWMexYtcX4c/pub?start=false&loop=false&delayms=3000"
       video: http://www.youtube.com/watch?v=2OriuE04_3g#t=31m
       date: 2013/12
+- fullname: Tomasz Warkocki
+  gravatar: abc
+  talks:
+    - title: "Arduino & Ruby"
+      slides: http://slides.com/warkocz/arduino-ruby
+      date: 2014/05
