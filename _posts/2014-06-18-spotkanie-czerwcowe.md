@@ -7,9 +7,10 @@ Już w przyszłym tygodniu, we **wtorek, 24 czerwca**
 zapraszamy na piąte w tym roku spotkanie WRUG, tradycyjnie
 [w siedzibie Centrum Cyfrowego](http://panstwomiasto.pl).
 
-Tym razem z okazji końca sezonu, ostatniego dnia szkoły i nadchodzącego
-[lightning.io](http://lightning.io) WRUG będzie składał się z lightning
-talków – przyjdź i opowiedz w pięć minut co Cię ostatnio zaciekawiło.
+Tym razem z okazji końca sezonu i nadchodzącego
+[lightning.io](http://lightning.io) WRUG
+będzie składał się z lightning talków – przyjdź
+i opowiedz w pięć minut co Cię ostatnio zaciekawiło.
 
 Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu, **z
 napojami (o dowolnym składzie) lub przekąskami zasponsorowanymi przez
