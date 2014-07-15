@@ -16,9 +16,9 @@ na obejście jego ograniczeń, a Michał Kwiatkowski o Shelly Cloud.
 Poza wystąpieniami będą też lightning talki i ogólne
 socjalizowanie przy barze na miejscu, **z napojami (o
 dowolnym składzie) lub przekąskami zasponsorowanymi już
-tradycyjnie przez [El Passion](http://elpassion.pl)**.
+tradycyjnie przez [EL Passion](http://elpassion.pl)**.
 
-[El Passion](http://elpassion.pl) od ponad 6 lat pomaga
+[EL Passion](http://elpassion.pl) od ponad 6 lat pomaga
 firmom z USA i Europy w projektowaniu, wykonaniu i wdrożeniach
 aplikacji mobilnych i webowych. Zainspirowani kalifornijską
 sceną startupową tworzą wyjątkową i unikalną atmosferę pracy.

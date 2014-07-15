@@ -20,7 +20,7 @@ frameworka i jak się różni od Angular.js czy Backbone.
 Poza wystąpieniami będą też lightning talki i ogólne
 socjalizowanie przy barze na miejscu, **z napojami (o
 dowolnym składzie) lub przekąskami zasponsorowanymi przez
-[El Passion](http://www.elpassion.com) i [Rebased](http://rebased.pl)**.
+[EL Passion](http://www.elpassion.com) i [Rebased](http://rebased.pl)**.
 
 [Rebased](http://rebased.pl) to dziesięciu świetnych programistów
 i jeden specjalista od biznesu. Pracują dla klientów z USA, Wielkiej

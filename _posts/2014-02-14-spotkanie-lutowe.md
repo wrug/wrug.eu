@@ -17,9 +17,9 @@ jako elemencie krytycznym rozwoju kariery programisty.
 Poza wystąpieniami będą też lightning talki i ogólne
 socjalizowanie przy barze na miejscu, **z napojami
 (o dowolnym składzie) lub przekąskami zasponsorowanymi
-przez [El Passion](http://www.elpassion.com)**.
+przez [EL Passion](http://www.elpassion.com)**.
 
-Firma [El Passion](http://www.elpassion.com) buduje aplikacje
+Firma [EL Passion](http://www.elpassion.com) buduje aplikacje
 internetowe w oparciu o Ruby on Rails oraz mobilne dla systemów
 iOS i Android. Zlokalizowana w Warszawie, pracuje dla klientów
 z Europy Zachodniej oraz USA. Tworzy startupy technologiczne od

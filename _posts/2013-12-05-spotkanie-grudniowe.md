@@ -15,9 +15,9 @@ w Rails, a Wojciech „Wojtałke” Ziniewicz o AWS OpsWorks.
 Poza wystąpieniami będą też lightning talki i ogólne
 socjalizowanie przy barze na miejscu, **z napojami (o
 dowolnym składzie) lub przekąskami zasponsorowanymi przez
-[El Passion](http://elpassion.pl) i [Rebased](http://rebased.pl)**.
+[EL Passion](http://elpassion.pl) i [Rebased](http://rebased.pl)**.
 
-[El Passion](http://elpassion.pl) od ponad 6 lat pomaga
+[EL Passion](http://elpassion.pl) od ponad 6 lat pomaga
 firmom z USA i Europy w projektowaniu, wykonaniu i wdrożeniach
 aplikacji mobilnych i webowych. Zainspirowani kalifornijską
 sceną startupową tworzą wyjątkową i unikalną atmosferę pracy.

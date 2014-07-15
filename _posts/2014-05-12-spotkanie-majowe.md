@@ -15,9 +15,9 @@ Warkocki o podstawach Arduino i sterowaniu nim z Ruby’ego.
 Poza wystąpieniami będą też lightning talki i ogólne socjalizowanie
 przy barze na miejscu, **z napojami (o dowolnym składzie) lub
 przekąskami zasponsorowanymi przez [Rebased](http://rebased.pl)
-i [El Passion](http://www.elpassion.com).**
+i [EL Passion](http://www.elpassion.com).**
 
-Firma [El Passion](http://www.elpassion.com) buduje aplikacje
+Firma [EL Passion](http://www.elpassion.com) buduje aplikacje
 internetowe w oparciu o Ruby on Rails oraz mobilne dla systemów
 iOS i Android. Zlokalizowana w Warszawie, pracuje dla klientów
 z Europy Zachodniej oraz USA. Tworzy startupy technologiczne od
