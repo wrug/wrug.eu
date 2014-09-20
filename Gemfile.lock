@@ -68,5 +68,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  RedCloth
-  jekyll
+  RedCloth (~> 4.2)
+  jekyll (~> 2.4)
