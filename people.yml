@@ -89,11 +89,14 @@
   talks:
     - slides: http://prezi.com/2pxa7gwhh-ai/debugging/
       title: Debugowanie dla początkujących
-      video: http://www.youtube.com/watch?v=wgV61lFdkS4&list=UUqxwfW07y6Zddq9JxXBEPkw&feature=c4-overview
+      video: "http://www.youtube.com/watch?v=wgV61lFdkS4&list=UUqxwfW07y6Zddq9JxXBEPkw&feature=c4-overview"
       date: 2014/01
     - slides: http://prezi.com/v0qwicgmnlnw/filozofia-w-ruby/
       title: Filozofia a programowanie w Ruby
       date: 2014/03
+    - slides: "https://drive.google.com/file/d/0B6FkkQvZBxefcmhvV080WHRiYjg/edit?usp=sharing"
+      title: "GitHub, zgłębienie tematu"
+      date: 2014/09
 - fullname: Paweł Kondzior
   gravatar: 22ffeede16982c3b8b03d80f4f2dc446
   talks:
@@ -244,7 +247,7 @@
 - fullname: Krzysztof Białek
   gravatar: hgr
   talks:
-    - title: Sass na sto procent 
+    - title: Sass na sto procent
       date: 2014/02
       slides: #
     - title: Edytowalne i18n z wykorzystaniem Redisa i Riddicka
@@ -252,7 +255,7 @@
       slides: #
 - fullname: Dariusz Biedrzycki
   gravatar: tjk
-  talks: 
+  talks:
     - title: TDD w JavaScripcie z wykorzystaniem Karmy i Jasmine
       date: 2014/03
       slides: #
