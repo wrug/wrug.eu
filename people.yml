@@ -97,6 +97,7 @@
     - slides: "https://drive.google.com/file/d/0B6FkkQvZBxefcmhvV080WHRiYjg/edit?usp=sharing"
       title: "GitHub, zgłębienie tematu"
       date: 2014/09
+      video: "https://www.youtube.com/watch?v=ecudReRlwe0&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
 - fullname: Paweł Kondzior
   gravatar: 22ffeede16982c3b8b03d80f4f2dc446
   talks:
@@ -259,3 +260,10 @@
     - title: TDD w JavaScripcie z wykorzystaniem Karmy i Jasmine
       date: 2014/03
       slides: #
+- fullname: Karolina i Magda
+  gravatar: 123
+  talks:
+    - title: Rails Grils Summer of Code
+      date: 2014/09
+      slides: #
+      video: "https://www.youtube.com/watch?v=IR5W4uZRF64&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
