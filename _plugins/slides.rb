@@ -30,7 +30,7 @@ module Jekyll
         person['talks'].each do |talk|
           date = talk['date']
           meetings[date] ||= []
-          meetings[date] << {'slides' => talk['slides'], 'title' => talk['title'], 'date' => talk['date'], 'author' => person['fullname'], 'video' => talk['video']}
+          meetings[date] << {'slides' => talk['slides'], 'title' => talk['title'], 'date' => talk['date'], 'author' => person['fullname'], 'video' => talk['video'], 'photos' => talk['photos']}
         end
       end
       meetings = meetings.sort { |a,b| b[0] <=> a[0] }
