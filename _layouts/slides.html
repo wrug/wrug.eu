@@ -9,6 +9,9 @@
         {% if talk.video %}
           <strong><a href="{{talk.video}}">Nagranie</a></strong>
         {% endif %}
+        {% if talk.photos %}
+          <strong><a href="{{talk.photos}}">Zdjęcia</a></strong>
+        {% endif %}
       <a href="{{talk.slides}}">{{talk.author}}: {{talk.title}}</a>
     </p>
     {% endfor %}
