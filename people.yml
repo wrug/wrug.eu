@@ -245,6 +245,10 @@
     - title: "Arduino & Ruby"
       slides: http://slides.com/warkocz/arduino-ruby
       date: 2014/05
+    - title: "Teaching Kids Programming"
+      slides: #
+      date: 2014/10
+      video: "https://www.youtube.com/watch?v=yDvFAXxo9e0&index=1&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
 - fullname: Krzysztof Białek
   gravatar: hgr
   talks:
@@ -267,3 +271,11 @@
       date: 2014/09
       slides: #
       video: "https://www.youtube.com/watch?v=IR5W4uZRF64&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
+- fullname: Filip Bartuzi
+  gravater: 123
+  talks:
+    - title: Zarządzanie Assets w Rails
+      date: 2014/10
+      slides: #
+      video: "https://www.youtube.com/watch?v=BV5ZM6wZh3k&index=4&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
+
