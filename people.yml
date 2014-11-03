@@ -97,6 +97,7 @@
     - slides: "https://drive.google.com/file/d/0B6FkkQvZBxefcmhvV080WHRiYjg/edit?usp=sharing"
       title: "GitHub, zgłębienie tematu"
       date: 2014/09
+      video: "https://www.youtube.com/watch?v=ecudReRlwe0&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
 - fullname: Paweł Kondzior
   gravatar: 22ffeede16982c3b8b03d80f4f2dc446
   talks:
@@ -244,6 +245,10 @@
     - title: "Arduino & Ruby"
       slides: http://slides.com/warkocz/arduino-ruby
       date: 2014/05
+    - title: "Teaching Kids Programming"
+      slides: "http://slides.com/warkocz/teaching-kids-programming"
+      date: 2014/10
+      video: "https://www.youtube.com/watch?v=yDvFAXxo9e0&index=1&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
 - fullname: Krzysztof Białek
   gravatar: hgr
   talks:
@@ -259,3 +264,18 @@
     - title: TDD w JavaScripcie z wykorzystaniem Karmy i Jasmine
       date: 2014/03
       slides: #
+- fullname: Karolina Kamińska, Magda Niedźwiecka
+  gravatar: 123
+  talks:
+    - title: Rails Girls Summer of Code
+      date: 2014/09
+      slides: #
+      video: "https://www.youtube.com/watch?v=IR5W4uZRF64&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
+- fullname: Filip Bartuzi
+  gravater: 123
+  talks:
+    - title: Zarządzanie Assets w Rails
+      date: 2014/10
+      slides: "https://speakerdeck.com/bartuz/zarzadzanie-assetami-w-rails"
+      video: "https://www.youtube.com/watch?v=BV5ZM6wZh3k&index=4&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
+
