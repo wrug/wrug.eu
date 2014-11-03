@@ -276,6 +276,6 @@
   talks:
     - title: Zarządzanie Assets w Rails
       date: 2014/10
-      slides: #
+      slides: "https://speakerdeck.com/bartuz/zarzadzanie-assetami-w-rails"
       video: "https://www.youtube.com/watch?v=BV5ZM6wZh3k&index=4&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
 
