@@ -33,3 +33,7 @@ Kiedy? W środę, **12 listopada 2014, o 18:30**.
 Gdzie? W [Państwomieście](http://panstwomiasto.pl) na
 **Andersa 29** (jeden przystanek tramwajem lub 10 minut
 spacerem z metra Dworzec Gdański lub metra Ratusz).
+
+Chętnych zapraszamy też do dopisania się przez
+[Meetup](http://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/218002582/)
+lub [Facebooka](https://www.facebook.com/events/1490815807865446/).
