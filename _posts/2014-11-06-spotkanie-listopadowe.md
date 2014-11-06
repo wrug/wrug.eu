@@ -3,8 +3,11 @@ layout: post
 title: WRUG listopadowy z testowaniem i usability
 ---
 
-Już w przyszłym tygodniu, w **środę, 12 listopada** zapraszamy na
-ósme w tym roku spotkanie WRUG, tradycyjnie [w siedzibie Centrum
+**Uwaga: jeśli czytaliście tego posta
+wcześniej – nastąpiła zmiania daty.**
+
+Już w we **wtorek, 25 listopada** zapraszamy na ósme
+w tym roku spotkanie WRUG, tradycyjnie [w siedzibie Centrum
 Cyfrowego](http://panstwomiasto.pl), tradycyjnie o **18:30**.
 
 Jako że część z zaplanowanych na październik prezentacji się nie
@@ -28,7 +31,7 @@ podstaw, wykorzystując metodologie Agile oraz Lean.
 i jeden specjalista od biznesu. Pracują dla klientów z USA, Wielkiej
 Brytanii, Niemiec, Szwecji, Holandii i nie tylko. Dostarczają.
 
-Kiedy? W środę, **12 listopada 2014, o 18:30**.
+Kiedy? We wtorek, **25 listopada 2014, o 18:30**.
 
 Gdzie? W [Państwomieście](http://panstwomiasto.pl) na
 **Andersa 29** (jeden przystanek tramwajem lub 10 minut
