@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WRUG listopadowy z testowaniem i usability
+title: WRUG listopadowy z testowaniem, usability i Rails
 ---
 
 **Uwaga: jeśli czytaliście tego posta
@@ -12,9 +12,10 @@ Cyfrowego](http://panstwomiasto.pl), tradycyjnie o **18:30**.
 
 Jako że część z zaplanowanych na październik prezentacji się nie
 odbyła, tym razem już naprawdę Krzysztof „Zły” Białek w prezentacji
-„Nie komplikujmy” opowie o web usability, a Tomasz „Tomash”
-Stachewicz opowie kiedy nie pisać testów. Jeśli masz ochotę
-wystąpić, to bardzo zapraszamy – najlepiej [zgłosić temat na
+„Nie komplikujmy” opowie o web usability, Tomasz „Tomash” Stachewicz
+opowie kiedy nie pisać testów, a Aleksander „tjeden” Dąbrowski
+skąd się bierze magia w Rails. Jeśli masz ochotę wystąpić,
+to bardzo zapraszamy – najlepiej [zgłosić temat na
 forum](http://forum.rubyonrails.pl/t/wrug-listopadowy-12-11-2014-sroda/8864)
 
 Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu, **z
