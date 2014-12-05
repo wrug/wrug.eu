@@ -6,7 +6,7 @@ title: WRUG listopadowy z testowaniem, usability i Rails
 **Uwaga: jeśli czytaliście tego posta
 wcześniej – nastąpiła zmiania daty.**
 
-Już w we **wtorek, 25 listopada** zapraszamy na ósme
+Już we **wtorek, 25 listopada** zapraszamy na ósme
 w tym roku spotkanie WRUG, tradycyjnie [w siedzibie Centrum
 Cyfrowego](http://panstwomiasto.pl), tradycyjnie o **18:30**.
 
