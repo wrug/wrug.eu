@@ -8,7 +8,7 @@ w tym roku spotkanie WRUG, tradycyjnie [w siedzibie Centrum
 Cyfrowego](http://panstwomiasto.pl), tradycyjnie o **18:30**.
 
 Tym razem Kamil „y3ti” Grabowski opowie o używaniu RRD (bazy
-buforowej) w Rubym, Marta „Ameba” Paciorkowska o programowaniu
+buforowej) w Rubym, Marta „ameba” Paciorkowska o programowaniu
 w sztuce współczesnej, a Jarosław „Sztywny” Rzeszótko o sprawnym
 organizowaniu projektów informatycznych od strony technicznej.
 
