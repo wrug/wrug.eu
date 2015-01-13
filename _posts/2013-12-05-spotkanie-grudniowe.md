@@ -7,7 +7,7 @@ Już w przyszłym tygodniu, w **środę, 11 grudnia**, zapraszamy
 na dziesiąte w tym roku spotkanie WRUG, znów [w siedzibie
 Centrum Cyfrowego](http://panstwomiasto.pl).
 
-Marta „Ameba” Paciorkowska opowie o Chef-Browserze, Łukasz
+Marta „ameba” Paciorkowska opowie o Chef-Browserze, Łukasz
 „Bragi” Piestrzeniewicz o Polished Developer – jak być w tej
 branży partnerem, Łukasz „Sarniak” Sarniacki o geolokalizacji
 w Rails, a Wojciech „Wojtałke” Ziniewicz o AWS OpsWorks.
