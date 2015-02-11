@@ -9,7 +9,7 @@ Cyfrowego](http://panstwomiasto.pl), tradycyjnie o **18:30**.
 
 Tym razem Daniel „nathell” Janus przedstawi wprowadzenie do
 [Clojure](http://clojure.org) dla Rubistów, a Michał „siemionides”
-Siemiończyk opowie „Czemu nie [Datomic](http://www.datomic.com)?”.
+Siemiończyk opowie „[Datomic](http://www.datomic.com) – czemu nie?”.
 
 Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu, **z
 napojami (o dowolnym składzie) lub przekąskami zasponsorowanymi przez
