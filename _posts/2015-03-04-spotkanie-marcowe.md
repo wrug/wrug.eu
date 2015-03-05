@@ -32,3 +32,7 @@ Kiedy? W środę, **11 marca 2015, o 18:30**.
 Gdzie? W [Państwomieście](http://panstwomiasto.pl) na
 **Andersa 29** (jeden przystanek tramwajem lub 10 minut
 spacerem z metra Dworzec Gdański lub metra Ratusz).
+
+Chętnych zapraszamy też do dopisania się przez
+[Meetup](http://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/220949030/)
+lub [Facebooka](https://www.facebook.com/events/1047301111964171/).
