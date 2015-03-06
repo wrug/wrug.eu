@@ -3,9 +3,9 @@ layout: post
 title: WRUG marcowy o nauce Ruby’ego i jegóż garbage collectorze
 ---
 
-Już **w najbliższą środę, 11 marca** zapraszamy na trzecie
-w tym roku spotkanie WRUG, tradycyjnie [w siedzibie Centrum
-Cyfrowego](http://panstwomiasto.pl), tradycyjnie o **18:30**.
+Już **w najbliższą środę, 11 marca** zapraszamy na trzecie w tym roku
+spotkanie WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
+tradycyjnie o **18:30**.
 
 Tym razem Piotr Zientara opowie o nauce Ruby’ego i Rails dla
 początkujących, a dla równowagi Michał Gutowski opowie o Ruby’owym
