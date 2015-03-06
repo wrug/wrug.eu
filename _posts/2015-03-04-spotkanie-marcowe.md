@@ -13,13 +13,11 @@ garbage collectorze (z uwzględnieniem nowinek z Ruby 2.2).
 
 Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu, **z
 napojami (o dowolnym składzie) lub przekąskami zasponsorowanymi przez
-[Arena.pl](http://arena.pl) i [EL Passion](http://www.elpassion.com).**
+[Arena.pl](http://arena.pl) i [Rebased](http://rebased.pl).**
 
-Firma [EL Passion](http://www.elpassion.com) buduje aplikacje
-internetowe w oparciu o Ruby on Rails oraz mobilne dla systemów
-iOS i Android. Zlokalizowana w Warszawie, pracuje dla klientów
-z Europy Zachodniej oraz USA. Tworzy startupy technologiczne od
-podstaw, wykorzystując metodologie Agile oraz Lean.
+[Rebased](http://rebased.pl) to kilkunastu świetnych programistów
+i jeden specjalista od biznesu. Pracują dla klientów z USA, Wielkiej
+Brytanii, Niemiec, Szwecji, Holandii i nie tylko. Dostarczają.
 
 [Arena.pl](http://arena.pl) to innowacyjna platforma handlowa
 stworzona w Ruby on Rails a jednocześnie największe wdrożenie
