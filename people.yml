@@ -28,6 +28,9 @@
     - title: Odchudzanie modeli ActiveRecord
       slides: #
       date: 2014/04
+    - title: Kiedy nie pisać testów
+      slides: #
+      date: 2014/11
 - fullname: Piotr Misiurek
   gravatar: 123
   talks:
@@ -156,6 +159,10 @@
       slides: https://vimeo.com/9176011
       video: https://vimeo.com/9176011
       date: 2010/02
+    - title: Jak działa magia w Railsach i dlaczego to nie jest żadna magia
+      slides: #
+      video: #
+      date: 2014/11
 - fullname: Piotr Szotkowski
   gravatar: 2c8e31a29536fc0acb263645ff36b19a
   talks:
