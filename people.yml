@@ -65,6 +65,10 @@
     - slides: https://speakerdeck.com/xamebax/jak-i-po-co-tlumaczyc-open-source
       title: Jak (i po co) tłumaczyć open source
       date: 2014/04
+    - title: Programowanie i sztuka
+      slides: #
+      video: https://www.youtube.com/watch?v=gL_sTGMP_ww
+      date: 2015/01
 - fullname: Łukasz Sarnacki
   gravatar: d024c4cf2b180107a48210fa908022cb
   talks:
@@ -98,6 +102,10 @@
       title: "GitHub, zgłębienie tematu"
       date: 2014/09
       video: "https://www.youtube.com/watch?v=ecudReRlwe0&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
+    - title:  Uczenie się rubiego i railsów
+      date: 2015/03
+      video: https://www.youtube.com/watch?v=6nPQJfx0RKQ
+      slides: #
 - fullname: Paweł Kondzior
   gravatar: 22ffeede16982c3b8b03d80f4f2dc446
   talks:
@@ -111,7 +119,7 @@
       title: Poziomy izolacji transakcji
       date: 2012/03
 - fullname: Wojciech Ziniewicz
-  gravatar: 1f4661114b546739b147aed326e3b5f3
+  gravatar: 8bd2f249509ed8ad097451bd8b77671a
   talks:
     - slides: http://www.slideshare.net/WojciechZiniewicz/aws-opsworks-for-developers-and-designers-29146245
       title: AWS Opsworks for developers and designers
@@ -168,6 +176,10 @@
       video: https://www.youtube.com/watch?v=uJnoFYVfdko
       title: Wątki w przestrzeni użytkownika
       date: 2013/05
+    - title: Co należy wiedzieć o indeksach aby ich efektywnie używać
+      date: 2014/12
+      slides: #
+      video: #
 - fullname: Krzysztof Modras
   gravatar: 8434b59c8bb7354ac486a8e71ab57051
   talks:
@@ -214,12 +226,16 @@
       video: https://vimeo.com/26155338
       slides: https://vimeo.com/26155338
 - fullname: Jarosław Rzeszótko
-  gravatar: 9c300b9f50804a3f7d559bf20f64a1c8
+  gravatar: 58f2c0dfc9628367507ed5559ffb813e
   talks:
     - title: WebSockets i WebGL - Nowe protokoły z rodziny WWW
       date: 2010/03
       slides: https://vimeo.com/9906526
       video: https://vimeo.com/9906526
+    - title: Zasady technicznej organizacji projektów programistycznych
+      date: 2015/01
+      slides: http://www.slideshare.net/sztywny/zasady-technicznej-organizacji-projektw-programistycznych
+      video: #
 - fullname: Michał Kwiatkowski
   gravatar: a747522e4b9069f2b3041c255cce01b4
   talks:
@@ -250,7 +266,7 @@
       date: 2014/10
       video: "https://www.youtube.com/watch?v=yDvFAXxo9e0&index=1&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
 - fullname: Krzysztof Białek
-  gravatar: hgr
+  gravatar: 9e9c90edd298a218df89d800f9f49d39
   talks:
     - title: Sass na sto procent
       date: 2014/02
@@ -263,19 +279,83 @@
   talks:
     - title: TDD w JavaScripcie z wykorzystaniem Karmy i Jasmine
       date: 2014/03
-      slides: #
-- fullname: Karolina Kamińska, Magda Niedźwiecka
+      slides: http://darekb.github.io/WarsawJs6/
+- fullname: Karolina Kamińska
   gravatar: 123
   talks:
     - title: Rails Girls Summer of Code
       date: 2014/09
       slides: #
       video: "https://www.youtube.com/watch?v=IR5W4uZRF64&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
+    - title: Zaproszenie coachów na .Class
+      date: 2015/03
+      video: https://www.youtube.com/watch?v=lC-jPjuKVzs
+      slides: http://dotclass.org/
+- fullname: Magda Niedźwiecka
+  gravatar: 345
+  talks:
+    - title: Rails Girls Summer of Code
+      date: 2014/09
+      slides: #
+      video: "https://www.youtube.com/watch?v=IR5W4uZRF64&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
 - fullname: Filip Bartuzi
-  gravater: 123
+  gravatar: 1d49bccfa9d2c633db6f854e67b88362
   talks:
     - title: Zarządzanie Assets w Rails
       date: 2014/10
       slides: "https://speakerdeck.com/bartuz/zarzadzanie-assetami-w-rails"
       video: "https://www.youtube.com/watch?v=BV5ZM6wZh3k&index=4&list=PLReB9Ix2k6NVzfRL3y0eZHnfrLZTkucwh"
+- fullname: Kamil Grabowski
+  gravatar: fdd8663c691bc122156512f23c56cd38
+  talks:
+    - title: Ansible - Automatyzacja zadań IT
+      date: 2014/12
+      slides: "http://www.slideshare.net/y3ti/ansible-42614313"
+      video: "https://www.youtube.com/watch?v=xPTobBGheHQ"
+    - title: RRD-FFI
+      date: 2015/01
+      slides: "http://www.slideshare.net/y3ti/rrdtool-ruby-dsl-rrdffi"
+      video: "https://www.youtube.com/watch?v=CPWgffDsroE"
+- fullname: Daniel Janus
+  gravatar: 4dade7153254b5e56be928a8512c8b26
+  talks:
+    - title: Wprowadzenie do Clojure dla Rubistów
+      date: 2015/02
+      video: https://www.youtube.com/watch?feature=player_embedded&v=Fv_ILlcLsrk
+      slides: #
+- fullname: Michał Siemiończyk 
+  gravatar: ee6d970d65ce9fe3b816f2e1cb5a70ad
+  talks:
+    - title: Czemu nie Datomic?
+      date: 2015/02
+      video: https://www.youtube.com/watch?feature=player_embedded&v=J47U3IUaFZk
+      slides: #
+- fullname: Michał Warda
+  gravatar: 9d9b2defd77dad41bd5c722121b251c8
+  talks:
+    - title: Czemu nie Datomic?
+      date: 2015/02
+      video: https://www.youtube.com/watch?feature=player_embedded&v=J47U3IUaFZk
+      slides: #
+- fullname: Michał Gutowski
+  gravatar: 654
+  talks: 
+    - title: Garbage Collector w Ruby
+      date: 2015/03
+      video: https://www.youtube.com/watch?v=Zw5Nst3Y5CM
+      slides: #
+- fullname: Michał Kalbarczyk
+  gravatar: b5b8eec3fd886a7d72b3ac29368f5073
+  talks:
+    - title: mruby
+      date: 2015/04
+      video: https://www.youtube.com/watch?feature=player_embedded&v=ac6qGum_AzE
+      slides: #
+- fullname: Maciej Kucharz
+  gravatar: cbb0b2cac58884a3f3a20afda04bfc02
+  talks:
+    - title: Node Machines
+      date: 2015/04
+      video: https://www.youtube.com/watch?feature=player_embedded&v=HuAP22Crk0M
+      slides: #
 
