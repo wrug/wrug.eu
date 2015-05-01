@@ -10,6 +10,10 @@ tradycyjnie o **18:30**.
 Tym razem Kacper „kv109” Walanus opowie czym są
 kontrakty w Rubym i poda przykłady ich implementacji.
 
+Jeśli chcielibyście o czymś opowiedzieć,
+to bardzo zapraszamy do [zgłoszenia się na
+forum](http://forum.rubyonrails.pl/t/wrug-majowy-6-05-2015-sroda/9775).
+
 Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu,
 **z napojami (o dowolnym składzie) lub przekąskami zasponsorowanymi
 przez [EL Passion](http://www.elpassion.com) i [Rebased](http://rebased.pl).**
