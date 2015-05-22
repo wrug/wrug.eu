@@ -365,4 +365,10 @@
       date: 2015/04
       video: https://www.youtube.com/watch?feature=player_embedded&v=HuAP22Crk0M
       slides: #
-
+- fullname: Kacper Walanus
+  gravatar: 2e813418b94afd912475288ae8e13acb
+  talks:
+    - title: Consumer Driven Contracts
+      date: 2015/05
+      video: https://www.youtube.com/watch?v=zgn3PG4fU9w
+      slides: #
