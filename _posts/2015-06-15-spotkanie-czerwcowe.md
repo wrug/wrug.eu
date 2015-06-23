@@ -1,14 +1,15 @@
 ---
 layout: post
-title: WRUG czerwcowy o tokenizacji, parsowaniu i życiu bez wątków
+title: WRUG czerwcowy o tokenizacji, życiu bez wątków i Elixirze
 ---
 
 Już za tydzień, **we wtorek 30 czerwca** zapraszamy na szóste w tym roku
 spotkanie WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
 
-Tym razem Tomasz „warkocz” Warkocki opowie o tokenizacji, parsowaniu
-i kompilacji Ruby’ego, a Michał Gutowski o życiu bez wątków.
+Tym razem Tomasz „warkocz” Warkocki opowie o tokenizacji,
+parsowaniu i kompilacji Ruby’ego, Michał Gutowski
+o życiu bez wątków, a Marek Kirejczyk o Elixirze.
 
 Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu, **z
 napojami (o dowolnym składzie) lub przekąskami zasponsorowanymi przez
