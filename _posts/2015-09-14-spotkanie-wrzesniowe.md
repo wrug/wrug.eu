@@ -34,6 +34,6 @@ Gdzie? W [Państwomieście](http://panstwomiasto.pl) na
 **Andersa 29** (jeden przystanek tramwajem lub 10 minut
 spacerem z metra Dworzec Gdański lub metra Ratusz).
 
-<!--Chętnych zapraszamy też do dopisania się przez
-[Meetup](http://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/221809055/)
-lub [Facebooka](https://www.facebook.com/events/1458673937757717/).-->
+Chętnych zapraszamy też do dopisania się przez
+[Meetup](http://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/225349416/)
+lub [Facebooka](https://www.facebook.com/events/1632518970347629/).
