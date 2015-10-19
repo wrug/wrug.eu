@@ -36,3 +36,7 @@ spacerem z metra Dworzec Gdański lub metra Ratusz).
 
 Zachęcamy także do zgłaszania swoich propozycji prezentacji na
 [forum RoR](http://forum.rubyonrails.pl/t/wrug-pazdziernikowy-28-10-2015/10776).
+
+Chętnych zapraszamy też do dopisania się przez
+[Meetup](http://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/226167517/)
+lub [Facebooka](https://www.facebook.com/events/1642101426071890/).
