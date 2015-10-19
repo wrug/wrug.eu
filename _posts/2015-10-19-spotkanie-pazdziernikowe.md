@@ -7,7 +7,7 @@ W następną **środę, 28 października**, zapraszamy na ósme w tym roku
 spotkanie WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
 
-Tym razem Jaroslav Nahorny z Trustwave / Spiderlabs Research opowie
+Tym razem Jarosław Górny z Trustwave / Spiderlabs Research opowie
 o dwóch dziurach bezpieczeństwa w Rubygems, CVE-2015-3900 i CVE-2015-4020,
 znalezionych i zgłoszonych przez jego zespół.
 
