@@ -15,8 +15,8 @@ Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu, **z
 napojami (o dowolnym składzie) lub przekąskami zasponsorowanymi przez
 [Rebased](http://rebased.pl) i [EL Passion](http://www.elpassion.com).**
 
-W trakcie spotkania planujemy mieć
-[streaming](http://whitestream.pl/wrug/).
+W trakcie spotkania planujemy mieć streaming sponsorowany przez firmę
+[Whitestream](http://whitestream.pl/wrug/).
 
 [Rebased](http://rebased.pl) to kilkunastu świetnych programistów
 i jeden specjalista od biznesu. Pracują dla klientów z USA, Wielkiej
