@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WRUG październikowy o dziurach bezpieczeństwa w Rubygems
+title: WRUG październikowy o dziurach bezpieczeństwa w Rubygems i Inesicie
 ---
 
 W następną **środę, 28 października**, zapraszamy na ósme w tym roku
@@ -9,7 +9,8 @@ tradycyjnie o **18:30**.
 
 Tym razem Jarosław Górny z Trustwave / Spiderlabs Research opowie
 o dwóch dziurach bezpieczeństwa w Rubygems, CVE-2015-3900 i CVE-2015-4020,
-znalezionych i zgłoszonych przez jego zespół.
+znalezionych i zgłoszonych przez jego zespół, a Michał Kalbarczyk pokaże
+nam frontendowy framework ruby - Inesita.
 
 Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu, **z
 napojami (o dowolnym składzie) lub przekąskami zasponsorowanymi przez
