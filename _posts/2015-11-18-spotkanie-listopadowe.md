@@ -1,11 +1,13 @@
 ---
 layout: post
-title: WRUG listopadowy
+title: WRUG listopadowy o tym jak tak naprawdę działa GIT
 ---
 
 W następny **czwartek, 26 listopada**, zapraszamy
 na dziewiąte w tym roku spotkanie WRUG, tradycyjnie
 [w Państwomieście](http://panstwomiasto.pl), tradycyjnie o **18:30**.
+
+Tym razem Mateusz Nowakowski z Daftcode opowie o tym jak tak naprawdę działa GIT i problemach związanych z brakiem tej wiedzy.
 
 Chętnych do wystąpienia zapraszamy do [zgłaszania się na
 forum](http://forum.rubyonrails.pl/t/wrug-listopadowy-25-11-2015-sroda/10956).
