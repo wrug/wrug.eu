@@ -1,15 +1,16 @@
 ---
 layout: post
-title: WRUG grudniowy o pisaniu prostego Slackbota i Ruby 2.3
+title: WRUG grudniowy o problemach z OOP i o Rubym 2.3
 ---
 
 W następną **środę, 9 grudnia**, zapraszamy
 na ostatnie w tym roku spotkanie WRUG, tradycyjnie
 [w Państwomieście](http://panstwomiasto.pl), tradycyjnie o **18:30**.
 
-Tym razem Tomasz Stachewicz z Rebased opowie nam o pisaniu prostego Slackbota,
-czyli zabawie Sinatrą z różnymi API, a Mateusz Nowakowski z Daftcode przedstawi nam
-zmiany w nadchodzącym Ruby 2.3.
+Tym razem Piotr Szotkowski z Rebased opowie nam
+o znajdywaniu w kodzie potencjalnych problemów za pomocą
+[Reeka](https://github.com/troessner/reek), a Mateusz Nowakowski
+z Daftcode przedstawi nam zmiany w nadchodzącym Rubym 2.3.
 
 Chętnych do wystąpienia zapraszamy do [zgłaszania się na
 forum](http://forum.rubyonrails.pl/t/wrug-grudniowy-9-12-2015-sroda/11046).
