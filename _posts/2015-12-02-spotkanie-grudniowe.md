@@ -18,7 +18,7 @@ forum](http://forum.rubyonrails.pl/t/wrug-grudniowy-9-12-2015-sroda/11046).
 Poza wystąpieniami będzie też socjalizowanie przy barze na
 miejscu, **z napojami (o dowolnym składzie) lub przekąskami
 zasponsorowanymi przez [EL Passion](http://www.elpassion.com)
-i [Rebased](http://rebased.pl).**
+i [DaftCode](http://daftcode.pl).**
 
 W trakcie spotkania planujemy mieć streaming sponsorowany
 przez firmę [Whitestream](http://whitestream.pl/wrug/).
@@ -29,9 +29,11 @@ iOS i Android. Zlokalizowana w Warszawie, pracuje dla klientów
 z Europy Zachodniej oraz USA. Tworzy startupy technologiczne od
 podstaw, wykorzystując metodologie Agile oraz Lean.
 
-[Rebased](http://rebased.pl) to kilkunastu świetnych programistów
-i jeden specjalista od biznesu. Pracują dla klientów z USA, Wielkiej
-Brytanii, Niemiec, Szwecji, Holandii i nie tylko. Dostarczają.
+[DaftCode](http://daftcode.pl) to polska firma tworząca produkty
+internetowe, mobilne oraz z zakresu sztucznej inteligencji.
+Firma działa w modelu biznesowym typu venture building, który
+polega na budowaniu oraz rozwijaniu kilku przedsięwzięć
+(startupów) równolegle.
 
 Kiedy? Środa, **9 grudnia 2015, o 18:30**.
 
