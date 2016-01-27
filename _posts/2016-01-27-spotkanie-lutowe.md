@@ -3,14 +3,14 @@ layout: post
 title: WRUG lutowy
 ---
 
-Już w **środę, 17 lutego**, zapraszamy na pierwsze w tym roku
+Już w **środę, 17 lutego**, zapraszamy na drugie w tym roku
 spotkanie WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
 
 Chętnych do wystąpienia zapraszamy do [zgłaszania się na forum](http://forum.rubyonrails.pl/t/wrug-lutowy-17-02-2016-sroda/11345/1). 
 
 Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu, **z
-napojami (o dowolnym składzie) lub przekąskami.**
+napojami (o dowolnym składzie) lub przekąskami**.
 
 W trakcie spotkania planujemy mieć streaming sponsorowany
 przez firmę [Whitestream](http://whitestream.pl/wrug/).
