@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WRUG lutowy
+title: WRUG lutowy o refaktorowaniu skomplikowanej logiki biznesowej
 ---
 
 Już w **środę, 17 lutego**, zapraszamy na drugie w tym roku
