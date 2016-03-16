@@ -16,7 +16,7 @@ forum](http://forum.rubyonrails.pl/t/wrug-marcowy-16-03-2016-sroda/11533).
 
 Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu, **z
 napojami (o dowolnym składzie) lub przekąskami** sponsorowanymi przez
-[EL Passion](http://www.elpassion.com) i [Rebased](http://rebased.pl).
+[EL Passion](http://www.elpassion.com) i [DaftCode](http://daftcode.pl).
 
 [DaftCode](http://www.daftcode.pl) to polska firma tworząca produkty internetowe, mobilne oraz z zakresu sztucznej inteligencji. Firma działa w modelu biznesowym typu venture building, który polega na budowaniu oraz rozwijaniu kilku przedsięwzięć (startupów) równolegle. DaftCode samodzielnie realizuje wszystkie etapy powstawania i wdrażania swoich projektów - od koncepcji przez development, aż po wprowadzenie danego produktu na rynek.
 
