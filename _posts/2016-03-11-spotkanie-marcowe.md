@@ -1,11 +1,15 @@
 ---
 layout: post
-title: WRUG marcowy
+title: WRUG marcowy o Docker Cloud i protobuffers
 ---
 
 Już w **środę, 16 marca**, zapraszamy na trzecie w tym roku
 spotkanie WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
+
+W tym miesiącu Jan Grodowski opowie nam o swoim doświadczeniu z Docker Cloud,
+a Marcin Wyszyński podzieli się swoją wiedzą nt. protobuffers. Będziemy mieli także
+sesję lightning talków, więc zachęcamy wszystkich do przygotowania krótkich prezentacji.
 
 Chętnych do drugiego wystąpienia zapraszamy do [zgłaszania się na
 forum](http://forum.rubyonrails.pl/t/wrug-marcowy-16-03-2016-sroda/11533).
