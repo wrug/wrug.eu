@@ -42,3 +42,7 @@ Kiedy? Środa, **22 czerwca 2016, o 18:30**.
 Gdzie? W [Państwomieście](http://panstwomiasto.pl) na
 **Andersa 29** (jeden przystanek tramwajem lub 10 minut
 spacerem z metra Dworzec Gdański lub metra Ratusz).
+
+Chętnych zapraszamy też do dopisania się przez
+[Meetup](http://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/232035336/)
+lub [Facebooka](https://web.facebook.com/events/644167932401767/).
