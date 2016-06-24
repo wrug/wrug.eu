@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WRUG czerwcowy o bitach w Rubym
+title: WRUG czerwcowy o bitach i kontynuacjach w Rubym
 ---
 
 W **środę, 22 maja**, zapraszamy na szóste w tym roku spotkanie
@@ -9,7 +9,8 @@ tradycyjnie o **18:30**.
 
 W tym miesiącu Piotr Szotkowski (chastell) opowie o eleganckim sposobie
 implementacji macierzy logicznej i wydajnym liczeniu wagi Hamminga
-(oraz czym w ogóle są te koszmarnie nieżyciowe określenia).
+(oraz czym w ogóle są te koszmarnie nieżyciowe określenia),
+a Daniel Janus (nathell) opowie o używaniu kontynuacji w Ruby.
 Zachęcamy również wszystkich do przygotowywania lightning
 talków, na które będziemy mieli czas pod koniec spotkania.
 
