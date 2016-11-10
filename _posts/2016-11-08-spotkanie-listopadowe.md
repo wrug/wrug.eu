@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WRUG listopadowy o Cordovie i Ember.js
+title: WRUG listopadowy o Cordovie, Ember.js i dry-validation
 ---
 
 Przed namy kolejne w tym sezonie spotkanie Warsaw Ruby User Group.
@@ -10,7 +10,10 @@ WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
 
 W tym miesiącu posłuchamy przełożonego z października talka Krzysztofa Białka
-o budowaniu aplikacji moblinych w Cordovie korzystając z Ember.js.
+z Rebased o budowaniu aplikacji moblinych w Cordovie korzystając z Ember.js.
+
+Następnie Bartosz Bonisławski z Netguru opowie
+o dry-validations jako alternatywie dla walidacji AR.
 
 Chętnych do kolejnych wystąpień zapraszamy do [zgłaszania się naforum](https://forum.rubyonrails.pl/t/wrug-listopadowy-16-11-2016-sroda/12793).
 
