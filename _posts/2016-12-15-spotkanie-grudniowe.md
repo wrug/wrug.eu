@@ -9,7 +9,7 @@ W **środę, 21. grudnia**, zapraszamy na trzecie w tym sezonie spotkanie
 WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
 
-W tym miesiącu będziemy mieli gościa prosto z Białorusi: Dmitry Gritsay(https://github.com/d-unseductable) opowie nam o tym jak budować najszybsze aplikacje serwerowe.
+W tym miesiącu będziemy mieli gościa prosto z Białorusi: [Dmitry Gritsay](https://github.com/d-unseductable) opowie nam o tym jak budować najszybsze aplikacje serwerowe.
 
 Następnie Piotr Szmielew wytłumaczy nam jak tak naprawdę działają domknięcia w Ruby? (czyli między innymi o tym dlaczego blok widzi zmienne lokalne zdefiniowane przed nim i dlaczego binding.pry działa tak jak działa)
 
