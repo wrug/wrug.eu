@@ -9,7 +9,7 @@ tradycyjnie o **18:30**.
 
 W tym miesiącu Mateusz Nowakowski z [DaftCode](http://daftcode.pl) opowie nam
 o nowościach w nadchodzących Railsach 5 oraz swoich doświadczeniach z ActionCable.
-Tomek Stachewicz z [Rebased](http://rebased.pl) pokaże nam jak tworzyć muzykę
+Łukasz Siwiński z [Pekao](http://pekao.com.pl) pokaże nam jak tworzyć muzykę
 korzystając z Ruby i SonicPi.
 Zachęcamy również wszystkich do przygotowywania lightning talków,
 na które będziemy mieli czas pod koniec spotkania.

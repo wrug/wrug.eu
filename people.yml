@@ -372,3 +372,10 @@
       date: 2015/05
       video: https://www.youtube.com/watch?v=zgn3PG4fU9w
       slides: #
+- fullname: Łukasz Siwiński
+  gravatar: 3fbee4f337687e475d41edcf4b18b496
+  talks:
+    - title: Ruby jako instrument muzyczny
+      date: 2015/04
+      video: https://www.youtube.com/watch?v=SW5iBzmZBgc
+      slides: https://github.com/hopbit/ruby-jako-instrument-muzyczny
