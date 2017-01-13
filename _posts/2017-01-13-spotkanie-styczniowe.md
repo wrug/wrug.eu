@@ -5,15 +5,16 @@ title: WRUG grudniowy o budowaniu szybkich aplikacji i domknięciach
 
 Przed nami kolejne w tym sezonie spotkanie Warsaw Ruby User Group.
 
-W **środę, 21. grudnia**, zapraszamy na trzecie w tym sezonie spotkanie
+W **środę, 18. stycznia**, zapraszamy na czwarte w tym sezonie spotkanie
 WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
 
-W tym miesiącu będziemy mieli gościa prosto z Białorusi: [Dmitry Gritsay](https://github.com/d-unseductable) opowie nam o tym jak budować najszybsze aplikacje serwerowe.
+W tym miesiącu spotkanie rozpocznie prezentacja Piotra Kruczka z Daftcode,
+który zgłębi strukturę klas w Ruby oraz ich dziedziczenia.
 
-Następnie Piotr Szmielew wytłumaczy nam jak tak naprawdę działają domknięcia w Ruby? (czyli między innymi o tym dlaczego blok widzi zmienne lokalne zdefiniowane przed nim i dlaczego binding.pry działa tak jak działa)
-
-Pod koniec posłuchamy krótkiej relacji z RubyDay 2016 we Florencji, na którym był Bartosz Bonisławski.
+Następnie Michał Młoźniak, VP of Technology w Shedul,
+podzieli się swoim wieloletnim doświadczeniem z testowaniem aplikacji Raillsowych
+i opowie o tym, jak najlepiej się za to zabrać.
 
 Zachęcamy również wszystkich do przygotowywania lightning talków,
 na które będziemy mieli czas pod koniec spotkania.
@@ -26,5 +27,5 @@ Bardzo dziękujemy za wasze wsparcie!
 W trakcie spotkania planujemy mieć streaming zapewniany przez firmę Whitestream
 
 Chętnych zapraszamy też do dopisania się przez
-[Meetup](https://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/236259193/)
-lub [Facebooka](https://www.facebook.com/events/1917586625130864/).
+[Meetup](https://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/236905112/).
+lub [Facebook](https://www.facebook.com/events/371142549915625/)

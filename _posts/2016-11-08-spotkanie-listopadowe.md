@@ -3,7 +3,7 @@ layout: post
 title: WRUG listopadowy o Cordovie, Ember.js i dry-validation
 ---
 
-Przed namy kolejne w tym sezonie spotkanie Warsaw Ruby User Group.
+Przed nami kolejne w tym sezonie spotkanie Warsaw Ruby User Group.
 
 W **środę, 16. listopada**, zapraszamy na drugie w tym sezonie spotkanie
 WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
