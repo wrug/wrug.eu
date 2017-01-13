@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WRUG grudniowy o budowaniu szybkich aplikacji i domknięciach
+title: WRUG styczniowy o dziedziczeniu i testowaniu
 ---
 
 Przed nami kolejne w tym sezonie spotkanie Warsaw Ruby User Group.
