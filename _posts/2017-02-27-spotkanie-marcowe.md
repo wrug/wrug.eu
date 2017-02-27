@@ -5,7 +5,7 @@ title: WRUG marcowy
 
 Przed nami kolejne w tym sezonie spotkanie Warsaw Ruby User Group.
 
-W **środę, 18. stycznia**, zapraszamy na czwarte w tym sezonie spotkanie
+W **środę, 15. marca**, zapraszamy na szóste w tym sezonie spotkanie
 WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
 
