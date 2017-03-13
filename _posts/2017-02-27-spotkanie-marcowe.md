@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WRUG marcowy
+title: WRUG marcowy o Hanami, PostgreSQL i domknięciach
 ---
 
 Przed nami kolejne w tym sezonie spotkanie Warsaw Ruby User Group.
@@ -8,6 +8,15 @@ Przed nami kolejne w tym sezonie spotkanie Warsaw Ruby User Group.
 W **środę, 15. marca**, zapraszamy na szóste w tym sezonie spotkanie
 WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
+
+W tym miesiącu Bartosz Bonisławski podzieli się z nami swoimi doświadczeniami
+z pracy z gemem Hanami.
+
+Następnie Tomek Stachewicz z Rebased opowie o zmianach w PostgreSQL 9.5
+
+Na koniec Piotr Szmielew dopowie jeszcze kilka rzeczy
+do swojego ostatniego talka o domknięciach,
+bo ten temat szybko mu się nie znudzi.
 
 Zachęcamy do zgłaszania propozycji prezentacji
 [na forum](https://forum.rubyonrails.pl/t/wrug-marcowy-15-03-2017-sroda/13591).
