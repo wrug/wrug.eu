@@ -23,3 +23,7 @@ naszych spotkań są: [EL Passion](http://www.elpassion.com),
 [DaftCode](http://daftcode.pl). Bardzo dziękujemy za wasze wsparcie!
 
 W trakcie spotkania planujemy mieć streaming zapewniany przez firmę Whitestream.
+
+Chętnych zapraszamy też do dopisania się przez
+[Meetup](https://www.meetup.com/Warsaw-Ruby-Users-Group-WRUG/events/239039629/)
+lub [Facebooka](https://www.facebook.com/events/814155558741147/).
