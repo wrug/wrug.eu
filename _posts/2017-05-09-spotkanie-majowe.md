@@ -5,7 +5,7 @@ title: WRUG majowy o fault tolerance, zarządzaniu procesami i CouchDB
 
 Przed nami kolejne w tym sezonie spotkanie Warsaw Ruby User Group.
 
-W **środę, 17. maja**, zapraszamy na szóste w tym sezonie spotkanie
+W **środę, 17 maja**, zapraszamy na szóste w tym sezonie spotkanie
 WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
 
