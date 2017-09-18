@@ -8,7 +8,9 @@ WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
 
 🔊 Marek Kirejczyk - Introduction to Ethereum with Ethereum.rb
+
 🔊 Maciej Głowacki - Import danych na 100 sposobów
+
 ⚡ Lightning talks (zgłoszenia na FB albo przez maila)
 
 Poza wystąpieniami będzie też socjalizowanie przy barze na miejscu,
