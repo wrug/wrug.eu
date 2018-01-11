@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WRUG grudniowy o Postgresie, Crystalu i puchnięciu pamięci w Rails
+title: WRUG styczniowy o Postgresie, Crystalu i puchnięciu pamięci w Rails
 ---
 
 W **środę, 17 stycznia**, zapraszamy na piąte w tym sezonie spotkanie
