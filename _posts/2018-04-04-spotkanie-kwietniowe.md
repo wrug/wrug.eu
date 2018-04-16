@@ -1,13 +1,11 @@
 ---
 layout: post
-title: WRUG kwietniowy o przyszłości, nudnym kodzie i dwóch bazach
+title: WRUG kwietniowy o nudnym kodzie i dwóch bazach
 ---
 
 W **środę, 18 kwietnia**, zapraszamy na ósme w tym sezonie spotkanie
 WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
-
-🔊 [ENG] Tobias Pfeiffer: _Where do Rubyists go?_
 
 🔊 [ENG] Adam Niedzielski: _Boring Ruby Code_
 
