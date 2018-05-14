@@ -7,7 +7,7 @@ W **środę, 16 maja**, zapraszamy na dziewiąte w tym sezonie spotkanie
 WRUG, tradycyjnie [w Państwomieście](http://panstwomiasto.pl),
 tradycyjnie o **18:30**.
 
-🔊 [ENG] Maciej Panasiewicz & Piotr Pyłka: _ELK Stack. Kickstart your business analytics_
+🔊 Maciej Panasiewicz & Piotr Pyłka: _ELK Stack. Kickstart your business analytics_
 
 🔊 Wolne miejsce - zapraszamy do zgłaszania się!
 
