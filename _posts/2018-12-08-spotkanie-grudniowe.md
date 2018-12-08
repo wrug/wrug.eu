@@ -4,7 +4,7 @@ title: Świąteczny WRUG o konferencjach i rekomendacjach
 ---
 
 W **środę, 19 grudnia**, zapraszamy na pierwsze i troszkę spóźnione w tym sezonie
-spotkanie WRUG, w nowym miejscu - [HubHub](http://panstwomiasto.pl),
+spotkanie WRUG, w nowym miejscu - [HubHub](https://www.hubhub.com/pl/warszawa-postepu14/),
 lecz o starej godzinie - **18:30**.
 
 🔊 Katarzyna Turbiasz-Bugała: _Po co na konferencję (gdy networking nie bawi)?_
@@ -24,9 +24,9 @@ tak aby proponować graczowi gry, których zazwyczaj by nie zobaczył."_
 Poza wystąpieniami będzie też socjalizowanie przy napojach (o dowolnym składzie).
 Sponsorami naszych spotkań są:
 [Shedul](https://www.shedul.com/)
-[Visuality](http://www.visuality.pl/).
+[Visuality](http://www.visuality.pl/)
 [DaftCode](https://daftcode.pl/),
 [EL Passion](https://www.elpassion.com/),
 [Ideamotive](https://ideamotive.co/) oraz
-[Rebased](https://rebased.pl/)
-bardzo dziękujemy za wsparcie!
+[Rebased](https://rebased.pl/).
+Bardzo dziękujemy za wsparcie!
