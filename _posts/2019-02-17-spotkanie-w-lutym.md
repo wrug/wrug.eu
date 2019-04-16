@@ -3,7 +3,7 @@ layout: post
 title: Zimowy WRUG o monadach i Heroku
 ---
 
-Zapraszamy na noworoczną edycję WRUGa!
+Zapraszamy na zimową edycję WRUGa!
 Start w **środę 20 lutego** o **18:30** w [HubHub](https://www.hubhub.com/pl/warszawa-postepu14/) przy ulicy **Postępu 14**.
 
 🔊 Kamil Kula: _Do not fear, Monads are here! Introduction to Monads in Ruby_

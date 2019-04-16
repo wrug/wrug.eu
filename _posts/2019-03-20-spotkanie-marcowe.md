@@ -3,7 +3,7 @@ layout: post
 title: Wiosenny WRUG o kalkulacjach i pair programmingu
 ---
 
-Zapraszamy na noworoczną edycję WRUGa!
+Zapraszamy na wiosenną edycję WRUGa!
 Start w **środę 20 marca** o **18:30** w [HubHub](https://www.hubhub.com/pl/warszawa-postepu14/) przy ulicy **Postępu 14**.
 
 🔊 Katarzyna Turbiasz-Bugała: _Tekst i atrybucja autorstwa, czyli stylowe kalkulacje_

@@ -3,7 +3,7 @@ layout: post
 title: Kwietniowy WRUG o materialized views i używaniu Elixira
 ---
 
-Zapraszamy na noworoczną edycję WRUGa!
+Zapraszamy na kwietniową edycję WRUGa!
 Start w **środę 17 kwietnia** o **18:30** w [HubHub](https://www.hubhub.com/pl/warszawa-postepu14/) przy ulicy **Postępu 14**.
 
 🔊 [ENG] Jarosław Kowalewski: _Materialized views_
