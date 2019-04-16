@@ -8,7 +8,7 @@ Start w **środę 20 marca** o **18:30** w [HubHub](https://www.hubhub.com/pl/wa
 
 🔊 Katarzyna Turbiasz-Bugała: _Tekst i atrybucja autorstwa, czyli stylowe kalkulacje_
 
-🔊 Michał Młoźniak: _[ENG] Mariusz Kozieł: Pair programming_
+🔊 [ENG] Mariusz Kozieł: _Pair programming_
 _"Pair programming rules, best practices and tips how to convince your clients and PMs"_
 
 ⚡ Lightning talks (zgłoszenia → <a href="mailto:wrug@mailbox.org">wrug@mailbox.org</a>)
