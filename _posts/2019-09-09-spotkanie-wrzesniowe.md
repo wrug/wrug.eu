@@ -10,7 +10,8 @@ Start w **środę, 18 września**, o **18:30!**
 
 🔊 Marek Parafianowicz: _Full text search in Postgres_
 
-🔊 [WOLNY SLOT] zgłoszenia przyjmujemy na FB lub na wrug@mailbox.org 🔊
+🔊 [ENG] Ivan Lopatin: _AWS Lambda with Ruby Framework Jets_
+_Ivan will explain what AWS Lambda is, including its pros, cons and limitations. The talk will cover how to use it with Ruby and show a couple of common scenarious of writing your own lambdas to deploy to Amazon._
 
 Poza wystąpieniami będzie też socjalizowanie przy napojach (o dowolnym składzie).
 
