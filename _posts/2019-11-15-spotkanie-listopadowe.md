@@ -11,9 +11,6 @@ Jak zwykle w [HubHub Nowogrodzka Square](https://www.hubhub.com/pl/warsaw-nowogr
 
 🔊 [ENG] Piotr Szotkowski: PostgreSQL for Fun and Profit
 
-🔊 Krzysztof Białek: Jak bezboleśnie używać AWS Lambda
-
-
 Sponsorami naszych spotkań są:
 [EL Passion](https://www.elpassion.com/)
 [Ideamotive](https://ideamotive.co/),
