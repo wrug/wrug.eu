@@ -9,11 +9,7 @@ Tradycyjnie spotykamy się w środę **20.04**. Zaczynamy **18:30 (sala otwarta 
 
 🔊 Paweł Strzałkowski - Introduction to Event Sourcing / How to do it in Ruby
 
-_TBA_
-
-🔊 Oskar Lakner: Stowarzyszenie miłośników ruby o swojej inicjatywie
-
-_TBA_
+🔊 Oskar Lakner: Stowarzyszenie Miłośników Ruby o swojej inicjatywie
 
 
 Po wydarzeniu będą dostępne nagrania prezentacji na [naszym kanale](https://www.youtube.com/channel/UCfpVS9gIDwdJETGsBZSm5Xw).
