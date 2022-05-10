@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kwietniowy WRUG o Event Sourcingu i stowarzyszeniu miłośników ruby
+title: Kwietniowy WRUG o Event Sourcingu i Stowarzyszeniu Miłośników Ruby
 ---
 
 Zapraszamy na WRUGa po małej przerwie!
