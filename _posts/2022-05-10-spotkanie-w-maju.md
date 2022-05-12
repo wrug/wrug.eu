@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majowy WRUG o Enumach
+title: Majowy WRUG o Enumach i Diagrams as Code
 ---
 
 Zapraszamy na koljnego WRUGa !
@@ -9,7 +9,7 @@ Tradycyjnie spotykamy się w środę **18.05**. Zaczynamy **18:30 (sala otwarta 
 
 🔊 Mariusz Droździel - Enums
 
-🔊 Oskar Lakner: Stowarzyszenie Miłośników Ruby o swojej inicjatywie
+🔊 Sakir Temel - Diagrams as Code
 
 
 Po wydarzeniu będą dostępne nagrania prezentacji na [naszym kanale](https://www.youtube.com/channel/UCfpVS9gIDwdJETGsBZSm5Xw).
